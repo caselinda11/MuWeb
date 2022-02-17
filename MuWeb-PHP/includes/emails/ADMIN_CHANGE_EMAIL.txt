@@ -1,0 +1,6 @@
+尊敬的 {USERNAME},<br /><br />
+
+管理员已将您帐户的邮箱地址更新为 <b>{NEW_EMAIL}</b>.<br /><br />
+
+送上最诚挚的问候<br />
+{SERVER_NAME}

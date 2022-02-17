@@ -1,0 +1,11 @@
+尊敬的 {USERNAME},<br /><br />
+
+我们已从以下IP地址收到您帐户的邮箱地址更改请求:<b> {IP_ADDRESS} </b>。 
+完成此请求后，您帐户的邮箱地址将更改为<b> {NEW_EMAIL} </b>，
+并且您将无法再使用当前邮箱地址恢复访问权限。 
+您可以通过<b> <a href="{LINK}" target="_blank">单击此处</a> </b>进行操作。<br /> <br />
+<span style="color:red;font-weight:bold;">警告:<br />
+如果您不要求更改邮箱地址，请忽略它并与管理员联系。</span> <br /> <br />
+
+送上最诚挚的问候<br />
+{SERVER_NAME}

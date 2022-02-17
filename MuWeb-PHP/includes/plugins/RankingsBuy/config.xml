@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <jf_active>1</jf_active>
+    <yb_active>1</yb_active>
+    <desc>5</desc>
+    <excluded_username>admin,test</excluded_username>
+    <jf_Field>JF</jf_Field>
+    <yb_Field>YB</yb_Field>
+</settings>

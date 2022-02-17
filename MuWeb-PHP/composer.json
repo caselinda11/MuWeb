@@ -1,0 +1,31 @@
+{
+    "name": "xteam/muonlinewebsite",
+    "description": "x team mu online website",
+    "type": "framework",
+    "homepage": "http://www.x-mu.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "mason X",
+            "email": "83213956@qq.com",
+            "homepage": "http://www.x-mu.cn/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-iconv": "*",
+        "ext-sockets": "*",
+        "ext-mbstring": "*",
+        "ext-simplexml": "*",
+        "ext-libxml": "*",
+        "tencentcloud/tencentcloud-sdk-php": "^3.0",
+        "phpmailer/phpmailer": "^6.5",
+        "ext-openssl": "*",
+      "ext-xml": "*",
+      "ext-apache": "*"
+    }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u5728\u7ebf\u52a0\u70b9",
+        "link": "usercp\/addstats",
+        "icon": "addstats.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 1
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u5728\u7ebf\u6d17\u70b9",
+        "link": "usercp\/resetstats",
+        "icon": "resetstats.png",
+        "visibility": "user",
+        "newtab": true,
+        "order": 2
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u6e05\u6d17\u7ea2\u540d",
+        "link": "usercp\/clearpk",
+        "icon": "clearpk.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 3
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u5927\u5e08\u6d17\u70b9",
+        "link": "usercp\/clearmaster",
+        "icon": "clearst.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 4
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u89d2\u8272\u81ea\u6551",
+        "link": "usercp\/unstick",
+        "icon": "unstick.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 5
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u89d2\u8272\u8f6c\u8eab",
+        "link": "usercp\/reset",
+        "icon": "reset.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 6
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u4efb\u52a1\u7cfb\u7edf",
+        "link": "usercp\/vote",
+        "icon": "vote.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 8
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u8d2d\u4e70\u91d1\u5e01",
+        "link": "usercp\/buyzen",
+        "icon": "zen.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 9
+    }
+]

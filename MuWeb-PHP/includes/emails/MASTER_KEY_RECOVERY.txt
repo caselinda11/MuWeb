@@ -1,0 +1,10 @@
+尊敬的 {USERNAME},<br /><br />
+
+这是您当前的主密码:<br />
+<span style="color:green;font-weight:bold;font-size: 15px;">{CURRENT_MASTERKEY}</span><br /><br />
+
+<span style="color:red;font-weight:bold;">警告:<br />
+如果您未授权此请求，请立即更改您的帐户密码，然后与管理员联系。</span><br /><br />
+
+送上最诚挚的问候<br />
+{SERVER_NAME}

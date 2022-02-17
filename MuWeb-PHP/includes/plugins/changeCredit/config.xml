@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <log>1</log>
+    <orientation>1</orientation>
+    <credit_1>1</credit_1>
+    <price_1>10:1</price_1>
+    <credit_2>2</credit_2>
+    <price_2>1:20</price_2>
+    <min_price>10</min_price>
+    <max_price>100000</max_price>
+    <name_1>积分</name_1>
+    <table_1>MEMB_INFO</table_1>
+    <table_column_1>JF</table_column_1>
+    <table_id_1>memb___id</table_id_1>
+    <name_2>元宝</name_2>
+    <table_2>MEMB_INFO</table_2>
+    <table_column_2>YB</table_column_2>
+    <table_id_2>memb___id</table_id_2>
+    <check_online>1</check_online>
+<credit_price/><credit_type/></settings>

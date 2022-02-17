@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <price>100</price>
+    <min_price>200</min_price>
+    <max_price>2000000</max_price>
+    <min_level>500</min_level>
+    <max_level>700</max_level>
+    <frequency>999</frequency>
+    <price_rate>0</price_rate>
+    <price_type>0</price_type>
+<price_type_1>3</price_type_1></settings>

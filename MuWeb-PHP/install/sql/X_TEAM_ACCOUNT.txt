@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+    [id] [int] IDENTITY(1,1) NOT NULL,
+	[Account] [varchar](10) NOT NULL,
+	[servercode] [int] NOT NULL,
+	[alipay] [varchar](50) NULL,
+	[wechat] [varchar](50) NULL,
+	[MachineID] [varchar](50) NULL,
+	[invite_ID] [varchar](10) NULL,
+	[CreateTime] [smalldatetime] NULL,
+) ON [PRIMARY]
+

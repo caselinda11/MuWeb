@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PentagramSystem>
+<OptionList>
+<Pentagram ItemCat="12" ItemIndex="200" Grade="1" OptionNum1="0"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="梅兰的魔法书" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="201" Grade="1" OptionNum1="0"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="艾特拉姆的卷轴" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="202" Grade="1" OptionNum1="0"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="帝国守护军的铁壁盾牌" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="203" Grade="1" OptionNum1="3"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="帝国守护军的铁壁盾牌" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="204" Grade="1" OptionNum1="0"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="英雄药水" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="205" Grade="1" OptionNum1="4"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="英雄药水" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="206" Grade="1" OptionNum1="0"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="角斗士的短刀" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="207" Grade="1" OptionNum1="2"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="角斗士的短刀" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="217" Grade="1" OptionNum1="5"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="贤者之石" /> <!-- Common -->
+<Pentagram ItemCat="12" ItemIndex="208" Grade="2" OptionNum1="26" OptionNum2="24" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="昆顿的疯狂刀刃" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="209" Grade="2" OptionNum1="27" OptionNum2="24" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="昆顿的魔法卷轴" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="210" Grade="2" OptionNum1="26" OptionNum2="28" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="帝国守护军的堡垒" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="211" Grade="2" OptionNum1="27" OptionNum2="28" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="天空之城的古书" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="218" Grade="2" OptionNum1="27" OptionNum2="24" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="魔法卷轴(绑定)" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="306" Grade="2" OptionNum1="34" OptionNum2="21" OptionNum3="29" OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="鲁内迪的金光旋律 竖琴" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="307" Grade="2" OptionNum1="34" OptionNum2="22" OptionNum3="30" OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="雷穆莉亚 宝珠" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="308" Grade="2" OptionNum1="23" OptionNum2="24" OptionNum3="25" OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="诺尔文的血光侍卫 里拉" /> <!-- Unique -->
+<Pentagram ItemCat="12" ItemIndex="212" Grade="3" OptionNum1="41" OptionNum2="24" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="阿尔卡那的预言书" /> <!-- Rare -->
+<Pentagram ItemCat="12" ItemIndex="213" Grade="3" OptionNum1="41" OptionNum2="42" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="安东尼斯的剑" /> <!-- Rare -->
+<Pentagram ItemCat="12" ItemIndex="214" Grade="3" OptionNum1="41" OptionNum2="43" OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="昆顿的封印书" /> <!-- Rare -->
+<Pentagram ItemCat="12" ItemIndex="215" Grade="1" OptionNum1="1"  OptionNum2="0"  OptionNum3="0"  OptionNum4="0" OptionNum5="0" OptionNum6="0" OptionNum7="0" Name="新手元素属性" /> <!-- Common -->
+</OptionList>
+
+<OptionSetting>
+<Errtel OptionNum="1"  Type1="0" Rank1="1" Level1="0" Type2="1"  Rank2="1"  Level2="0"  Type3="2"  Rank3="1"  Level3="0"  Type4="3"  Rank4="1"  Level4="0"  Type5="-1" Rank5="-1" Level5="0"  Name="元素属性攻击力/防御力 增加 +5%%" />				
+<Errtel OptionNum="2"  Type1="0" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="元素属性攻击力 增加 +10%%" />						
+<Errtel OptionNum="3"  Type1="0" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="元素属性防御力 增加 +10%%" />						
+<Errtel OptionNum="4"  Type1="0" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性致命一击 伤害几率 +10%%" />					
+<Errtel OptionNum="5"  Type1="0" Rank1="1" Level1="0" Type2="1"  Rank2="1"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="庇护的艾尔特1阶属性效果 增加 +35" />				
+<Errtel OptionNum="21" Type1="0" Rank1="2" Level1="0" Type2="2"  Rank2="2"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="元素属性攻击力 增加 +10%%" />						
+<Errtel OptionNum="22" Type1="1" Rank1="2" Level1="0" Type2="3"  Rank2="2"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="元素属性防御力 增加 +10%%" />						
+<Errtel OptionNum="23" Type1="1" Rank1="1" Level1="7" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性致命一击 伤害几率 +5%%" />					
+<Errtel OptionNum="24" Type1="0" Rank1="2" Level1="3" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性致命一击 伤害几率 +10%%" />					
+<Errtel OptionNum="25" Type1="0" Rank1="3" Level1="0" Type2="1"  Rank2="3"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性致命一击 伤害几率 +25%%" />					
+<Errtel OptionNum="26" Type1="0" Rank1="3" Level1="0" Type2="1"  Rank2="3"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="防御力添加到属性防御力 +5%%" />					
+<Errtel OptionNum="27" Type1="0" Rank1="3" Level1="0" Type2="1"  Rank2="3"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="伤害添加到属性攻击力 +1%%" />						
+<Errtel OptionNum="28" Type1="1" Rank1="2" Level1="0" Type2="2"  Rank2="1"  Level2="7"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="%s, %s 属性攻击完全回避几率 +5%%" />				
+<Errtel OptionNum="29" Type1="0" Rank1="3" Level1="0" Type2="2"  Rank2="3"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性攻击力 增加 +30" />							
+<Errtel OptionNum="30" Type1="1" Rank1="3" Level1="0" Type2="3"  Rank2="3"  Level2="0"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性防御力 增加 +30" />							
+<Errtel OptionNum="31" Type1="2" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="高贵的艾尔特1阶属性效果 增加 +20 (未使用属性)" />	
+<Errtel OptionNum="32" Type1="3" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="神圣的艾尔特1阶属性效果 增加 +20 (未使用属性)" />	
+<Errtel OptionNum="33" Type1="4" Rank1="1" Level1="0" Type2="-1" Rank2="-1" Level2="-1" Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="狂喜的艾尔特1阶属性效果 增加 +20 (未使用属性)" />	
+<Errtel OptionNum="34" Type1="0" Rank1="1" Level1="7" Type2="1"  Rank2="1"  Level2="7"  Type3="4"  Rank3="1"  Level3="7"  Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="元素属性攻击力/防御力 增加 +5%%" />				
+<Errtel OptionNum="41" Type1="1" Rank1="3" Level1="6" Type2="2"  Rank2="3"  Level2="6"  Type3="3"  Rank3="3"  Level3="6"  Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="属性攻击完全回避几率 +5%%" />						
+<Errtel OptionNum="42" Type1="0" Rank1="3" Level1="5" Type2="1"  Rank2="3"  Level2="5"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="防御力添加到属性防御力 +5%%" />					
+<Errtel OptionNum="43" Type1="0" Rank1="3" Level1="5" Type2="1"  Rank2="3"  Level2="5"  Type3="-1" Rank3="-1" Level3="-1" Type4="-1" Rank4="-1" Level4="-1" Type5="-1" Rank5="-1" Level5="-1" Name="伤害添加到属性攻击力 +1%%" />						
+</OptionSetting>
+
+<SocketProbabilityRate>
+<Socket Grade="2" Rate1="0" Rate2="0" Rate3="7000" Rate4="3000"  Rate5="0" /> <!-- Rare Chance Socket, Total 10000 -->
+<Socket Grade="3" Rate1="0" Rate2="0" Rate3="0"    Rate4="10000" Rate5="0" /> <!-- Unique Chance Socket, Total 10000 -->
+</SocketProbabilityRate>
+</PentagramSystem>

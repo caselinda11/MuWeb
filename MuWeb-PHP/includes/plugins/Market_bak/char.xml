@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <min_price>300</min_price>
+    <max_price>2000000</max_price>
+    <min_level>0</min_level>
+    <max_level>800</max_level>
+    <frequency>2</frequency>
+    <price_rate>5</price_rate>
+    <price_type>1</price_type>
+    <limit>0</limit>
+    <limit_price_type>1</limit_price_type>
+<active_login>1</active_login></settings>

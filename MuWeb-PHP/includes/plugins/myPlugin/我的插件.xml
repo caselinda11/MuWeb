@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<name>我的插件</name>
+	<author>mason X</author>
+	<version>1.0.0</version>
+	<compatibility>
+		<version>2.0.0</version>
+		<version>2.1.0</version>
+		<version>2.2.0</version>
+	</compatibility>
+	<folder>myPlugin</folder>
+	<files>
+		<file>loader.php</file>
+	</files>
+</settings>

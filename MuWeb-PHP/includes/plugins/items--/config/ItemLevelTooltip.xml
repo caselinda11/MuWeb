@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- 二次等级命名文件
+	Name:物品名称
+	ItemType:大编号
+	ItemIndex:小编号
+	Level:物品等级
+ -->
+<item>
+	<LevelToop Name="帝王之书" ItemType="14" ItemIndex="23" Level="0" />
+	<LevelToop Name="荣誉戒指" ItemType="14" ItemIndex="23" Level="1" />
+	<LevelToop Name="断魂之剑" ItemType="14" ItemIndex="24" Level="0" />
+	<LevelToop Name="暗黑之石" ItemType="14" ItemIndex="24" Level="1" />
+	<LevelToop Name="幸运宝箱" ItemType="14" ItemIndex="11" Level="0" />
+	<LevelToop Name="圣诞之星" ItemType="14" ItemIndex="11" Level="1" />
+	<LevelToop Name="爆竹" ItemType="14" ItemIndex="11" Level="2" />
+	<LevelToop Name="爱情之心" ItemType="14" ItemIndex="11" Level="3" />
+	<LevelToop Name="爱情橄榄" ItemType="14" ItemIndex="11" Level="4" />
+	<LevelToop Name="银质勋章" ItemType="14" ItemIndex="11" Level="5" />
+	<LevelToop Name="金质勋章" ItemType="14" ItemIndex="11" Level="6" />
+	<LevelToop Name="城主宝箱" ItemType="14" ItemIndex="11" Level="7" />
+	<LevelToop Name="黄金宝箱 +1" ItemType="14" ItemIndex="11" Level="8" />
+	<LevelToop Name="黄金宝箱 +2" ItemType="14" ItemIndex="11" Level="9" />
+	<LevelToop Name="黄金宝箱 +3" ItemType="14" ItemIndex="11" Level="10" />
+	<LevelToop Name="黄金宝箱 +4" ItemType="14" ItemIndex="11" Level="11" />
+	<LevelToop Name="黄金宝箱 +5" ItemType="14" ItemIndex="11" Level="12" />
+	<LevelToop Name="圣导师之心" ItemType="14" ItemIndex="11" Level="13" />
+	<LevelToop Name="月饼" ItemType="14" ItemIndex="11" Level="14"/>
+	<LevelToop Name="红色福袋" ItemType="14" ItemIndex="11" Level="15"/>
+	<LevelToop Name="回城卷轴" ItemType="14" ItemIndex="10" Level="0" />
+	<LevelToop Name="勇者大陆移动卷轴" ItemType="14" ItemIndex="10" Level="1" />
+	<LevelToop Name="仙踪林移动卷轴" ItemType="14" ItemIndex="10" Level="2" />
+	<LevelToop Name="冰风谷移动卷轴" ItemType="14" ItemIndex="10" Level="3" />
+	<LevelToop Name="副本移动卷轴" ItemType="14" ItemIndex="10" Level="4" />
+	<LevelToop Name="亚特兰蒂斯移动卷轴" ItemType="14" ItemIndex="10" Level="5" />
+	<LevelToop Name="失落之塔移动卷轴" ItemType="14" ItemIndex="10" Level="6" />
+	<LevelToop Name="死亡沙漠移动卷轴" ItemType="14" ItemIndex="10" Level="7" />
+	<LevelToop Name="天空之城移动卷轴" ItemType="14" ItemIndex="10" Level="8" />
+	<LevelToop Name="金" ItemType="14" ItemIndex="12" Level="0" />
+	<LevelToop Name="心之记忆" ItemType="14" ItemIndex="12" Level="1" />
+	<LevelToop Name="智力果实" ItemType="13" ItemIndex="15" Level="0" />
+	<LevelToop Name="体力果实" ItemType="13" ItemIndex="15" Level="1" />
+	<LevelToop Name="敏捷果实" ItemType="13" ItemIndex="15" Level="2" />
+	<LevelToop Name="力量果实" ItemType="13" ItemIndex="15" Level="3" />
+	<LevelToop Name="统率果实" ItemType="13" ItemIndex="15" Level="4" />
+	<LevelToop Name="洛克之羽" ItemType="13" ItemIndex="14" Level="0" />
+	<LevelToop Name="国王卷轴" ItemType="13" ItemIndex="14" Level="1" />
+	<LevelToop Name="蕾娜" ItemType="14" ItemIndex="21" Level="0" />
+	<LevelToop Name="石头" ItemType="14" ItemIndex="21" Level="1" />
+	<LevelToop Name="友情之石" ItemType="14" ItemIndex="21" Level="2" />
+	<LevelToop Name="城主标识" ItemType="14" ItemIndex="21" Level="3" />
+	<LevelToop Name="大天使之杖" ItemType="13" ItemIndex="19" Level="0" />
+	<LevelToop Name="大天使之剑" ItemType="13" ItemIndex="19" Level="1" />
+	<LevelToop Name="大天使之弩" ItemType="13" ItemIndex="19" Level="2" />
+	<LevelToop Name="魔法戒指" ItemType="13" ItemIndex="20" Level="0" />
+	<LevelToop Name="勇士指环" ItemType="13" ItemIndex="20" Level="1" />
+	<LevelToop Name="战士指环" ItemType="13" ItemIndex="20" Level="2" />
+	<LevelToop Name="纪念指环" ItemType="13" ItemIndex="20" Level="3" />
+	<LevelToop Name="祝福药水" ItemType="14" ItemIndex="7" Level="0" />
+	<LevelToop Name="灵魂药水" ItemType="14" ItemIndex="7" Level="1" />
+	<LevelToop Name="弓箭佣兵" ItemType="13" ItemIndex="7" Level="2" />
+	<LevelToop Name="标枪佣兵" ItemType="13" ItemIndex="7" Level="3" />
+	<LevelToop Name="护卫卷轴" ItemType="13" ItemIndex="11" Level="0" />
+	<LevelToop Name="设置复活石" ItemType="13" ItemIndex="11" Level="1" />
+	<LevelToop Name="酒" ItemType="14" ItemIndex="9" Level="0" />
+	<LevelToop Name="爱情橄榄" ItemType="14" ItemIndex="9" Level="1" />
+	<LevelToop Name="黑王马之魂" ItemType="13" ItemIndex="31" Level="0" />
+	<LevelToop Name="天鹰之魂" ItemType="13" ItemIndex="31" Level="1" />
+	<LevelToop Name="神秘水晶" ItemType="12" ItemIndex="26" Level="0" />
+	<LevelToop Name="红色水晶" ItemType="12" ItemIndex="26" Level="1" />
+	<LevelToop Name="蓝色水晶" ItemType="12" ItemIndex="26" Level="2" />
+	<LevelToop Name="黑色水晶" ItemType="12" ItemIndex="26" Level="3" />
+	<LevelToop Name="宝箱" ItemType="12" ItemIndex="26" Level="4" />
+	<LevelToop Name="惊喜礼物" ItemType="12" ItemIndex="26" Level="5" />
+	<LevelToop Name="粉红色宝箱" ItemType="14" ItemIndex="32" Level="0" />
+	<LevelToop Name="紫色宝箱" ItemType="14" ItemIndex="32" Level="1" />
+	<LevelToop Name="红色宝箱" ItemType="14" ItemIndex="33" Level="0" />
+	<LevelToop Name="朱红宝箱" ItemType="14" ItemIndex="33" Level="1" />
+	<LevelToop Name="蓝色宝箱" ItemType="14" ItemIndex="34" Level="0" />
+	<LevelToop Name="军绿宝箱" ItemType="14" ItemIndex="34" Level="1" />
+	<LevelToop Name="爱情秘药" ItemType="14" ItemIndex="20" Level="0" />
+	<LevelToop Name="周年纪念日礼盒 +1" ItemType="14" ItemIndex="20" Level="1" />
+	<LevelToop Name="周年纪念日礼盒 +2" ItemType="14" ItemIndex="20" Level="2" />
+	<LevelToop Name="周年纪念日礼盒 +3" ItemType="14" ItemIndex="20" Level="3" />
+	<LevelToop Name="周年纪念日礼盒 +4" ItemType="14" ItemIndex="20" Level="4" />
+	<LevelToop Name="周年纪念日礼盒 +5" ItemType="14" ItemIndex="20" Level="5" />
+	<LevelToop Name="移动符咒" ItemType="13" ItemIndex="70" Level="0" />
+	<LevelToop Name="移动符咒+1" ItemType="13" ItemIndex="70" Level="1" />
+	<LevelToop Name="移动符咒 +2" ItemType="13" ItemIndex="70" Level="2" />
+	<LevelToop Name="弩箭" ItemType="4" ItemIndex="7" Level="0" />
+	<LevelToop Name="弩箭 +1" ItemType="4" ItemIndex="7" Level="1" />
+	<LevelToop Name="弩箭 +2" ItemType="4" ItemIndex="7" Level="2" />
+	<LevelToop Name="弩箭 +3" ItemType="4" ItemIndex="7" Level="3" />
+	<LevelToop Name="弓箭" ItemType="4" ItemIndex="15" Level="0" />
+	<LevelToop Name="弓箭 +1" ItemType="4" ItemIndex="15" Level="1" />
+	<LevelToop Name="弓箭 +2" ItemType="4" ItemIndex="15" Level="2" />
+	<LevelToop Name="弓箭 +3" ItemType="4" ItemIndex="15" Level="3" />
+	<LevelToop Name="炎狼兽之角" ItemType="13" ItemIndex="37" Level="0" />
+	<LevelToop Name="炎狼兽之角 +破坏" ItemType="13" ItemIndex="37" Level="1" />
+	<LevelToop Name="炎狼兽之角 +守护" ItemType="13" ItemIndex="37" Level="2" />
+	<LevelToop Name="炎狼兽之角 +幻影" ItemType="13" ItemIndex="37" Level="3" />
+	<LevelToop Name="幼龙变身戒指" ItemType="13" ItemIndex="10" Level="0" />
+	<LevelToop Name="巨人变身戒指" ItemType="13" ItemIndex="10" Level="1" />
+	<LevelToop Name="骷髅战士变身戒指" ItemType="13" ItemIndex="10" Level="2" />
+	<LevelToop Name="毒牛怪变身戒指" ItemType="13" ItemIndex="10" Level="3" />
+	<LevelToop Name="死灵巫师变身戒指" ItemType="13" ItemIndex="10" Level="4" />
+	<LevelToop Name="牛魔王变身戒指" ItemType="13" ItemIndex="10" Level="5" />
+	<LevelToop Name="召唤哥布林 魔石" ItemType="12" ItemIndex="11" Level="0" />
+	<LevelToop Name="召唤石巨人 魔石" ItemType="12" ItemIndex="11" Level="1" />
+	<LevelToop Name="召唤暗杀者 魔石" ItemType="12" ItemIndex="11" Level="2" />
+	<LevelToop Name="召唤雪人王 魔石" ItemType="12" ItemIndex="11" Level="3" />
+	<LevelToop Name="召唤暗黑骑士 魔石" ItemType="12" ItemIndex="11" Level="4" />
+	<LevelToop Name="召唤守护兽巴里 魔石" ItemType="12" ItemIndex="11" Level="5" />
+	<LevelToop Name="召唤黄金斗士 魔石" ItemType="12" ItemIndex="11" Level="6" />
+	<LevelToop Name="纪念指环" ItemType="13" ItemIndex="20" Level="3" />
+</item>

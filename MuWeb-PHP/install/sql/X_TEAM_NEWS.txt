@@ -1,0 +1,17 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+	[news_id] [int] IDENTITY(1,1) NOT NULL,
+	[news_title] [varchar](max) NOT NULL,
+	[title_color] [varchar](50) NOT NULL,
+	[news_type]  [int] NOT NULL,
+    [type_color] [varchar](50) NOT NULL,
+	[news_author] [varchar](50) NOT NULL,
+	[news_date] [smalldatetime] NOT NULL,
+	[news_content] [text] NOT NULL,
+	[allow_comments] [int] NOT NULL,
+	[sort] [int] DEFAULT(10) NOT NULL,
+	[status] [tinyint] DEFAULT(1) NOT NULL,
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY];
+
+INSERT INTO [X_TEAM_NEWS] ([news_title],[news_author],[news_date],[news_content],[allow_comments],[news_type],[type_color] ,[title_color],[sort]) VALUES ('测试文章[1]','mason X','2021-01-01','感谢您支持我们的网站系统，<br />您可以登陆您的管理员账号->后台->模块管理->新闻系统->切换显示模式哦!',0,1,'#5bc0de','#5bc0de',5);
+INSERT INTO [X_TEAM_NEWS] ([news_title],[news_author],[news_date],[news_content],[allow_comments],[news_type],[type_color] ,[title_color],[sort]) VALUES ('测试文章[2]','mason X','2021-01-01','感谢您支持我们的网站系统，<br />您可以登陆您的管理员账号->后台->模块管理->新闻系统->切换显示模式哦!',0,1,'#f0ad4e','#f0ad4e',10);
+INSERT INTO [X_TEAM_NEWS] ([news_title],[news_author],[news_date],[news_content],[allow_comments],[news_type],[type_color] ,[title_color],[sort]) VALUES ('测试文章[3]','mason X','2021-01-01','感谢您支持我们的网站系统，<br />您可以登陆您的管理员账号->后台->模块管理->新闻系统->切换显示模式哦!',0,1,'#d43f3a','#d43f3a',100);

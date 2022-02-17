@@ -1,0 +1,7 @@
+use [MuOnline]
+if not exists (select * from syscolumns where name = 'Point1' and id = object_id('Character')) alter table [Character] add Point1 int DEFAULT (0) NOT NULL
+if not exists (select * from syscolumns where name = 'Point2' and id = object_id('Character')) alter table [Character] add Point2 int DEFAULT (0) NOT NULL
+if not exists (select * from syscolumns where name = 'Point3' and id = object_id('Character')) alter table [Character] add Point3 int DEFAULT (0) NOT NULL
+if not exists (select * from syscolumns where name = 'Point4' and id = object_id('Character')) alter table [Character] add Point4 int DEFAULT (0) NOT NULL
+if not exists (select * from syscolumns where name = 'Point5' and id = object_id('Character')) alter table [Character] add Point5 int DEFAULT (0) NOT NULL
+GO

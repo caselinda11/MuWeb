@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+    [id] [int] IDENTITY(1,1) NOT NULL,
+	[Account] [varchar](10) NOT NULL,
+	[servercode] [int] NOT NULL,
+	[toast] [int] DEFAULT((0)) NOT NULL,
+	[stats] [int] DEFAULT((0)) NOT NULL,
+	[title] [varchar](255) NULL,
+	[message] [text] NULL,
+	[time] [varchar](10) NULL,
+	[CreateTime] [smalldatetime] NULL,
+	[UpdateTime] [smalldatetime] NULL,
+) ON [PRIMARY]

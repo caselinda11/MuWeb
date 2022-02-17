@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<active>1</active>
+	<enable_session_timeout>1</enable_session_timeout>
+	<enable_redirect>1</enable_redirect>
+	<session_timeout>3600</session_timeout>
+	<max_login_attempts>5</max_login_attempts>
+	<failed_login_timeout>30</failed_login_timeout>
+</settings>

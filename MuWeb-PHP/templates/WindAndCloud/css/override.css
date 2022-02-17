@@ -1,0 +1,130 @@
+/*在这里方式你想重置的样式*/
+.jumbotron {
+     padding: 2rem 1rem;
+     margin-bottom: 0;
+}
+/*排名页面样式*/
+.rankings div{
+     padding-left: 0;
+     padding-right: 0;
+     margin-left: 0;
+     margin-right: 0;
+}
+
+.table{
+     color: #fff;
+     margin-bottom:0;
+}
+
+.table-hover tbody tr:hover {
+     color:#d3d3d3;
+     background:url(../img/hover-table.png) center;
+     background-size: cover;
+}
+.table-bordered td, .table-bordered th {
+     border: 1px solid #aeaeae17;
+}
+
+.table thead th {
+     border-top: 2px solid #b3350f;
+     border-bottom: 1px solid #aeaeae17;
+     color: #b3350f;
+     font-size: 13px;
+}
+.table td, .table th {
+     vertical-align: inherit;
+     padding: .55rem;
+     border-top: 1px solid #aeaeae17;
+}
+.table-bordered {
+     border: 1px solid #aeaeae17;
+}
+.card{
+     background: url(../img/servers-bg.jpg) no-repeat;
+     background-size: cover;
+     background-color: #12141f;
+     box-shadow: 0 10px 15px 4px rgba(0, 0, 0,0.3);
+     border-radius: .05rem;
+}
+.card-header{
+     background-color: rgba(0,0,0,.22);
+     border-bottom: 1px solid rgba(0,0,0,3);
+     padding: .75rem 1.25rem .75rem 2.25rem;
+     text-transform: uppercase;
+     color: #cc7954;
+     font-size: 18px;
+}
+
+.form-control {
+     border-radius: .05rem;
+}
+.btn-outline-dark {
+     color: #D3D3D3;
+}
+.list-group-item {
+     color: #d3d3d3;
+     background-color: rgba(0,0,0,.02);
+     border: 1px solid #aeaeae17;
+}
+.list-group-item:hover {
+     color:#ffff;
+     background:url(../img/hover-table.png) center;
+     background-size: cover;
+}
+.card-header:before{
+     content: "";
+     position: absolute;
+     background: url(../img/title-icon.png) no-repeat;
+     background-size: cover;
+     width: 24px;
+     height: 24px;
+     left: 7px;
+     top: 14px;
+     filter: drop-shadow(0px 0px 2px #ff2a00);
+}
+.breadcrumb {
+     background:url(../img/dark-fon.png);
+}
+pre{
+     color:#FFF;
+}
+table.dataTable {
+     border-collapse: collapse;
+}
+table.dataTable tbody tr {
+     background-color: unset;
+}
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+     color: #FFF;
+}
+.dataTables_wrapper .dataTables_length select {
+     background: #262626;
+     border: 1px solid #575757;
+     color: #e0e3ed;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+     color: #2196f3 !important;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+     overflow:hidden;
+     white-space:nowrap;
+     text-overflow:ellipsis;
+     /*max-width: 50px;//最大宽度*/
+}
+.dataTables_wrapper .dataTables_filter input {
+     color: #c9c9c9;
+}
+.dataTables_wrapper .dataTables_processing {
+     height: 55px;
+     line-height: 14px;
+     background-color: #3D3D3D;
+     background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(0,0,0,0)), color-stop(25%, rgba(0,0,0,0.9)), color-stop(75%, rgba(0,0,0,0.9)), color-stop(100%, rgba(0,0,0,0)));
+     background: -webkit-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 25%, rgba(0,0,0,0.9) 75%, rgba(0,0,0,0) 100%);
+     background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 25%, rgba(0,0,0,0.9) 75%, rgba(0,0,0,0) 100%);
+     background: -ms-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 25%, rgba(0,0,0,0.9) 75%, rgba(0,0,0,0) 100%);
+     background: -o-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 25%, rgba(0,0,0,0.9) 75%, rgba(0,0,0,0) 100%);
+     background: linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 25%, rgba(0,0,0,0.9) 75%, rgba(0,0,0,0) 100%);
+}
+.dataTables_wrapper .dataTables_filter input {
+     border: 1px solid #575757;border-radius: 3px;
+}

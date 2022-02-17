@@ -1,0 +1,71 @@
+/*在这里方式你想重置的样式*/
+.table td, .table th {
+     vertical-align: inherit;
+     padding: .55rem;
+     border-top: 1px solid #dee2e67a;
+}
+.table{
+     margin-bottom:0;
+}
+.jumbotron {
+     padding: 2rem 1rem;
+     margin-bottom: 0rem;
+}
+/*排名页面样式*/
+.rankings div{
+     padding-left: 0;
+     padding-right: 0;
+     margin-left: 0;
+     margin-right: 0;
+}
+.table thead th {
+     border-top: 2px solid #b3350f;
+     border-bottom: 1px solid #e3e3e3;
+     background-color: #fff;
+     height: 20px;
+     color: #b3350f;
+     font-size: 13px;
+}
+table.dataTable {
+     border-bottom: 1px solid #e3e3e3;
+}
+
+.carousel-caption{
+     left: 5%;
+     right: unset;
+     bottom: 55px;
+}
+.carousel-indicators{
+     justify-content:unset;
+
+}
+.carousel-indicators li {
+     width: 16px;
+     height: 16px;
+     background-color: #363636;
+}
+.carousel-indicators .active {
+     background-color: #CA3B0F;
+}
+.card{
+     background-image: linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, rgb(0 0 0 / 5%) 8px, transparent 0), linear-gradient(90deg, hsla(0, 0%, 100%, .05) 8px, transparent 0), linear-gradient(90deg, hsla(0, 0%, 100%, .06) 8px, transparent 0);
+     background-repeat: repeat-x;
+     background-size: 72px 36px, 72px 52px, 72px 48px, 72px 65px, 72px 59px, 72px 42px, 144px 52px, 216px 57px;
+     background-position: 0 100%, 12px 100%, 24px 100%, 36px 100%, 48px 100%, 60px 100%, 12px 100%, 48px 100%;
+     border-radius: .05rem;
+}
+.card-header{
+     background-color: rgba(0,0,0,.02);
+     border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+table.dataTable thead th, table.dataTable thead td {
+     border-bottom: 1px solid #b3350f;
+}
+table.dataTable.no-footer {
+     border-bottom: 1px solid #b3350f;
+}
+
+.form-control {
+     border-radius: .05rem;
+}

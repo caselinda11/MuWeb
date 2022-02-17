@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<active>1</active>
+	<register_enable_qq_email>1</register_enable_qq_email>
+	<register_enable_sno__numb>0</register_enable_sno__numb>
+	<register_sno__numb_length>18</register_sno__numb_length>
+	<register_enable_captcha>0</register_enable_captcha>
+	<register_appID>48a6ebac4ebc6642d68c217fca33eb4d</register_appID>
+	<register_appKey>4f1c085290bec5afdc54df73535fc361</register_appKey>
+	<send_welcome_email>0</send_welcome_email>
+	<verify_email>0</verify_email>
+	<verification_timelimit>24</verification_timelimit>
+	<money>1000000</money>
+	<email_status>0</email_status>
+	<register_enable_phone>1</register_enable_phone>
+</settings>

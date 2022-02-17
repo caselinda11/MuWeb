@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<active>1</active>
+	<login_sidebar>1</login_sidebar>
+	<usercp_sidebar>1</usercp_sidebar>
+	<count_sidebar>1</count_sidebar>
+	<cc_sidebar>1</cc_sidebar>
+	<bfk_sidebar>1</bfk_sidebar>
+	<qq_link_sidebar>1</qq_link_sidebar>
+	<qqun_link_sidebar>1</qqun_link_sidebar>
+	<gens_count_sidebar>1</gens_count_sidebar>
+	<level_ranking_sidebar>1</level_ranking_sidebar>
+	<guild_ranking_sidebar>1</guild_ranking_sidebar>
+	<gens_ranking_sidebar>1</gens_ranking_sidebar>
+	<open_time>2021-01-01</open_time>
+	<event_sidebar>1</event_sidebar>
+</settings>

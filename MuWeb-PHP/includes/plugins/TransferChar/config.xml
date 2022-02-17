@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <log>1</log>
+    <req_level>300</req_level>
+    <credit_type>1</credit_type>
+    <credit_price>300</credit_price>
+    <min_level>1</min_level>
+    <max_level>800</max_level>
+    <transfer_cont>5</transfer_cont>
+</settings>

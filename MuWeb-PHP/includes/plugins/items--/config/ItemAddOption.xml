@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- 380级PvP属性 -->
+<item>
+	<Option Index="1" Name="攻击成功率提高 +%d" />
+	<Option Index="2" Name="攻击力提高 +%d" />
+	<Option Index="3" Name="防御成功率提高 +%d" />
+	<Option Index="4" Name="防御力提高 +%d" />
+	<Option Index="5" Name="生命力提高 +%d" />
+	<Option Index="6" Name="SD提高 +%d" />
+	<Option Index="7" Name="SD自动恢复 +%d" />
+	<Option Index="8" Name="SD恢复速度提高 +%d" />
+</item>

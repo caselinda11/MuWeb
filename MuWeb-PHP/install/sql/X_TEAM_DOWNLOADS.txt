@@ -1,0 +1,14 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+	[download_id] [int] IDENTITY(1,1) NOT NULL,
+	[download_title] [varchar](100) NOT NULL,
+	[download_description] [varchar](100) NULL,
+	[download_link] [varchar](max) NOT NULL,
+	[download_size] [varchar](10) NULL,
+	[download_type] [int] NOT NULL
+) ON [PRIMARY];
+
+INSERT INTO [X_TEAM_DOWNLOADS] ([download_title] ,[download_description] ,[download_link],[download_size],[download_type]) VALUES ('Microsoft DirectX','微软官方支持库，无法正常启动游戏的请安装此文件。','https://www.microsoft.com/zh-CN/download/details.aspx?id=35','286 KB',3);
+INSERT INTO [X_TEAM_DOWNLOADS] ([download_title] ,[download_description] ,[download_link],[download_size],[download_type]) VALUES ('Microsoft Visual C++ 2008','微软官方支持库，无法正常启动游戏的请安装此文件。','https://www.microsoft.com/zh-CN/download/details.aspx?id=29','1.7 MB',3);
+INSERT INTO [X_TEAM_DOWNLOADS] ([download_title] ,[download_description] ,[download_link],[download_size],[download_type]) VALUES ('向日葵远控工具','一款方便上班族提供可手机操作电脑的软件','https://sunlogin.oray.com/download/','5.21MB',3);
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <credit_type>0</credit_type>
+    <min_price>1</min_price>
+    <max_price>5000</max_price>
+    <min_level>0</min_level>
+    <max_level>15</max_level>
+    <exclude>0,512</exclude>
+    <extend_warehouse>0</extend_warehouse>
+    <vip_items>0</vip_items>
+    <price_type>1</price_type>
+    <price_rate>6</price_rate>
+    <limit>0</limit>
+    <limit_price_type>2</limit_price_type>
+<active_login>0</active_login><jewel>0</jewel></settings>

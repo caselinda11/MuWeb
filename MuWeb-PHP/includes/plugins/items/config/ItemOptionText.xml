@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 0 : No Option                                                                           -->
+<!-- 1 : Attack Speed Increase +%d                                                           -->
+<!-- 2 : Damage Increase +%d (General Damage/HP)                                             -->
+<!-- 3 : Defense +%d                                                                         -->
+<!-- 4 : Max HP Increase +%d                                                                 -->
+<!-- 5 : Max Mana Increase +%d                                                               -->
+<!-- 6 : Exp Increase +d%%                                                                    -->
+<!-- 7 : Drop Rate Increase %d%%                                                              -->
+<!-- 8 : Prevents exp from being gained                                                      -->
+<!-- 9 : Strength Increase +%d                                                               -->
+<!-- 10: Agility Increase +%d                                                                -->
+<!-- 11: Vitality Increase +%d                                                               -->
+<!-- 12: Energy Increase +%d                                                                 -->
+<!-- 13: Command Increase +%d                                                                -->
+<!-- 14: Increased attack power +%d                                                          -->
+<!-- 15: Wizard Damage Increase +%d                                                          -->
+<!-- 16: Free M Menu warping                                                                 -->
+<!-- 22: Magic Defense Increase +%d                                                          -->
+<!-- 24: Damage Reflect Increase +%d                                                         -->
+<!-- 26: Attack Rate Decrease +%d                                                            -->
+<!-- 33: Min Wizardy Power Increase +%d                                                      -->
+<!-- 34: Max Wizardy Power Increase +%d                                                      -->
+<!-- 51: Increase Damage and Wizard Damage +%d%% (Melee/Magic/Curse)                          -->
+<!-- 52: Damage absorption %d%%                                                               -->
+<!-- 53: Automatic HP Recovery +%d%%                                                          -->
+<!-- 54: Automatic Mana Recovery +%d%%                                                        -->
+<!-- 55: Critical Damage +%d%%                                                                -->
+<!-- 56: Excellent Damage +%d%%                                                               -->
+<!-- 57: Melee/Wizardy/Curse Damage Increase +%d                                             -->
+<!-- 58: Defense Increase +%d                                                                -->
+<!-- 60: Exp increase by %d%% (regular only)                                                  -->
+<!-- 61: Possibility to obtain obtain rare items from monsters in Vulcanus                   -->
+<!-- 62: No penalty for dying (no loss of exp or items)                                      -->
+<!-- 63: Items will not lose durability points for certain amount of time                    -->
+<!-- 64: Increase Zen by %d%%                                                                 -->
+<!-- 65: Maintains HP for certain amount of time (Mu Blue)                                   -->
+<!-- 66: Increase Maximum AG + level by 10                                                   -->
+<!-- 67: Increase Maximum SD + level by 10                                                   -->
+<!-- 68: Increase Exp gain rate by up to %d%% (depending on the number of people in party)    -->
+<!-- 70: Max SD Increase +%d                                                                 -->
+<!-- 71: Max AG Increase +%d                                                                 -->
+<!-- 74: Defense Rate Increase +%d                                                           -->
+<!-- 75: Defense Rate Decrease +%d                                                           -->
+<!-- 87: Exp gain increase +%d%% (Ascension Items, Normal/Master level usable)                -->
+<!-- 88: Exp gain increase +%d%% (Bless of Light, Normal/Master level usable)                 -->
+<ItemOptionManager>
+	<Option Index="0 " Name="无属性" />
+	<Option Index="1 " Name="攻击速度提高 +%d" />
+	<Option Index="2 " Name="攻击力/魔法攻击力提高 +%d" />
+	<Option Index="3 " Name="防御力 +%d" />
+	<Option Index="4 " Name="最大生命值(实际是双倍效果) +%d" />
+	<Option Index="5 " Name="最大魔法值(实际是双倍效果) +%d" />
+	<Option Index="6 " Name="经验值提高 +%d" />
+	<Option Index="7 " Name="掉宝率 +%d%%" />
+	<Option Index="8 " Name="维持原等级(不获得经验) +%d" />
+	<Option Index="9 " Name="力量 +%d" />
+	<Option Index="10" Name="敏捷 +%d" />
+	<Option Index="11" Name="体力 +%d" />
+	<Option Index="12" Name="智力 +%d" />
+	<Option Index="13" Name="统率 +%d" />
+	<Option Index="14" Name="攻击力 +%d" />
+	<Option Index="15" Name="魔法攻击力 +%d" />
+	<Option Index="16" Name="自由移动(无效) +%d" />
+	<Option Index="17" Name="提升攻击力魔法攻击力 +%d%%" />
+	<Option Index="18" Name="吸收伤害 +%d%%" />
+	<Option Index="22" Name="魔法防御增加 +%d" />
+	<Option Index="24" Name="伤害反射增加 +%d" />
+	<Option Index="26" Name="攻击成功率增加 +%d" />
+	<Option Index="33" Name="最小魔法力增加 +%d" />
+	<Option Index="34" Name="最大魔法力增加 +%d" />
+	<Option Index="51" Name="攻击力/魔法攻击力(近战/魔法/诅咒) +%d%%" />
+	<Option Index="52" Name="吸收伤害 %d%%" />
+	<Option Index="53" Name="生命自动恢复 +%d%%" />
+	<Option Index="54" Name="魔法自动恢复 +%d%%" />
+	<Option Index="55" Name="幸运一击攻击力 +%d%%" />
+	<Option Index="56" Name="卓越一击攻击力 +%d%%" />
+	<Option Index="57" Name="近战/魔法/诅咒 伤害增加 +%d" />
+	<Option Index="58" Name="防御增加 +%d" />
+	<Option Index="60" Name="经验值增加(仅常规) %d%%" />
+	<Option Index="61" Name="囚禁之岛怪物身上获得稀有物品概率提高" />
+	<Option Index="62" Name="垂死不罚（不损失经验值或物品）" />
+	<Option Index="63" Name="物品在一定时间内不会失去耐久点" />
+	<Option Index="64" Name="金钱概率增加 %d%%" />
+	<Option Index="65" Name="维持HP一定时间（Mu Blue）" />
+	<Option Index="66" Name="最大AG+等级提高10" />
+	<Option Index="67" Name="最大SD+等级提高10" />
+	<Option Index="68" Name="经验值增加 %d%% (取决于组队人数)" />
+	<Option Index="70" Name="最大SD值增加 +%d" />
+	<Option Index="71" Name="最大AG值增加 +%d" />
+	<Option Index="74" Name="防御率增加 +%d" />
+	<Option Index="75" Name="防御率减少 +%d" />
+	<Option Index="87" Name="经验收益增加 +%d%%（提升物品，普通/大师等级可用）" />
+	<Option Index="88" Name="经验收益增加 +%d%%（光之祝福，普通/大师等级可用）" />
+</ItemOptionManager>

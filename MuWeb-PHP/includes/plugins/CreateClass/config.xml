@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <log>1</log>
+    <mg_active>1</mg_active>
+    <mg_level_req>1</mg_level_req>
+    <mg_credit_type>3</mg_credit_type>
+    <mg_credit_price>200</mg_credit_price>
+    <dl_active>1</dl_active>
+    <dl_level_req>200</dl_level_req>
+    <dl_credit_type>1</dl_credit_type>
+    <dl_credit_price>500</dl_credit_price>
+</settings>

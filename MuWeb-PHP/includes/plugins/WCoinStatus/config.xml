@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <log>1</log>
+    <min_level>400</min_level>
+    <points_1>300</points_1>
+    <points_2>500</points_2>
+    <points_3>800</points_3>
+    <points_4>1000</points_4>
+    <points_5>2000</points_5>
+    <credit_type_1>2</credit_type_1>
+    <credit_type_2>1</credit_type_2>
+    <credit_type_3>2</credit_type_3>
+    <credit_type_4>1</credit_type_4>
+    <credit_type_5>1</credit_type_5>
+    <credit_price_1>10</credit_price_1>
+    <credit_price_2>15</credit_price_2>
+    <credit_price_3>20</credit_price_3>
+    <credit_price_4>30</credit_price_4>
+    <credit_price_5>50</credit_price_5>
+</settings>

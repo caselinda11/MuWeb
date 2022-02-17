@@ -1,0 +1,92 @@
+<table class="table table-hover table-striped">
+	<tbody>
+		<tr>
+			<th width="90">基础介绍</th>
+			<td>X-TEAM CMS是基于PHP语言的奇迹MU内容管理系统。有着更<strong>安全</strong>、<strong>便捷</strong>、<strong>品质</strong>的网站框架。</td>
+		</tr>
+		<tr>
+			<th>基础介绍</th>
+			<td>我们致力于让服务器运行用户花更少的精力去调配网站，同而使网站变的更安全的网络框架。</td>
+		</tr>
+		<tr>
+			<th>环境说明</th>
+			<td>Apache + PHP 7.0以上版本即可。市面上的所有集成环境软件都可以搭建，<strong>三分钟即可上线</strong>。</td>
+		</tr>
+		<tr>
+			<th>系统支持</th>
+			<td>我们同时支持<strong>Windows</strong>与<strong>Linux</strong>系统，安装非常简单，首次购买我们为用户提供免费安装服务。</td>
+		</tr>
+		<tr>
+			<th>网站支持</th>
+			<td>所有的集成环境包我们已经全部为您准备好并<strong>语音</strong>&nbsp;+&nbsp;<strong>远程</strong>现场教学安装使用，无需自己摸索。</td>
+		</tr>
+		<tr>
+			<th>游戏支持</th>
+			<td>一套网站系统同时支持市面上主流端，例: EG,好易,IGC,MuEMU,Louis等,其他版本可联系支持。</td>
+		</tr>
+		<tr>
+			<th>版本升级</th>
+			<td>如果您使用的IGC文件,为了迎接每个新赛季,您只需要每次支付少许的升级费用即可无缝更新。</td>
+		</tr>
+		<tr>
+			<th>游戏支持</th>
+			<td>网站系统目前支持游戏版本从1.02至S16都完美支持，特殊其他版本也可以与作者联系拓展支持。</td>
+		</tr>
+		<tr>
+			<th>多服务器</th>
+			<th>同时支持多服务器分布式网络，不管你多少个区，多个台服务器，只需要一套网站系统便搞定。</th>
+		</tr>
+		<tr>
+			<th>多服务器</th>
+			<th>同时支持Me_MuOnline+MuOnline，或只使用MuOnline，都支持多库多区或者单库多区操作。</th>
+		</tr>
+		<tr>
+			<th>网站安全</th>
+			<td>我们采用验证式表单，同时可以应用SSL(HTTPS)协议。有效防暴库，撞库，爬虫，CC等网络攻击。</td>
+		</tr>
+		<tr>
+			<th>网站安全</th>
+			<td>我们默认使用邮箱系统，一个邮箱管理多个账号，与传统过于简单的密码答案导致被盗号说不。</td>
+		</tr>
+		<tr>
+			<th>模版美化</th>
+			<td>购买系统默认赠送1(默认)+1(自选)共2套模版美化，随时后台一键切换使用，也可自由开发或定制。</td>
+		</tr>
+		<tr>
+			<th>便捷特性</th>
+			<td>我们支持第三方扩展开发，开放N个可扩展化接口。扩展、美化模版、后台一键安装即可使用。</td>
+		</tr>
+		<tr>
+			<th>品质保证</th>
+			<td>我们有着丰富的网站制作经验，我们不敢保证代码是最完美的，但我们保证用户体验是最品质的。</td>
+		</tr>
+		<tr>
+			<th>售后服务</th>
+			<th>您可以这么理解，文件只是工具，我们卖的是服务，我们为客户提供免费的技术指导与BUG维护。</th>
+		</tr>
+		<tr>
+			<th>可选扩展</th>
+			<td>装备透视，藏宝阁（角色、物品、旗帜交易），<span style="color:#c0392b;">网站发送游戏公告</span>，在线抽奖等等一系列扩展。</td>
+		</tr>
+		<tr>
+			<th>扩展系统</th>
+			<td>我们有庞大的扩展功能，您只需要一键安装，后台配置扩展设置即可上线，不需要修改文件等。</td>
+		</tr>
+		<tr>
+			<th>基础指南</th>
+			<th>默认我们已经调配好一切，您只需要写入您的游戏设置，配置您的赞助信息。即可正式上线。</th>
+		</tr>
+		<tr>
+			<th>渲染框架</th>
+			<td>我们的网站前后端主要使用&nbsp;<strong><a href="https://v4.bootcss.com/docs/getting-started/introduction/">Bootstrap4</a></strong>&nbsp;+&nbsp;<strong>jQuery</strong>&nbsp;+&nbsp;<strong>datatables</strong>&nbsp;渲染，让用户体验更好的视觉冲击。</td>
+		</tr>
+		<tr>
+			<th>基础指南</th>
+			<th>如果想更好的自定义布局需要学习那些？您不需要学习PHP语言，您只需简单了解<strong><a href="https://v4.bootcss.com/docs/getting-started/introduction/">Bootstrap4</a></strong>即可。</th>
+		</tr>
+		<tr>
+			<th>扩展开发</th>
+			<td>如果基础系统无法满足你，您可以自由开发，或我们为你量身定制扩展功能与网站美化模版。</td>
+		</tr>
+	</tbody>
+</table>

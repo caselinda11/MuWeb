@@ -1,0 +1,46 @@
+[
+    {
+        "item_type": 6676,
+        "item_name": "\u7eaa\u5ff5\u6212\u6307",
+        "item_use": 18,
+        "item_exc": 0,
+        "item_set": 0,
+        "item_lev": 3,
+        "item_rate": 20,
+        "color": "text-danger",
+        "order": 1
+    },
+    {
+        "item_type": 6676,
+        "item_name": "\u7eaa\u5ff5\u6212\u6307",
+        "item_use": 1,
+        "item_exc": 0,
+        "item_set": 0,
+        "item_lev": 3,
+        "item_rate": 10,
+        "color": "text-danger",
+        "order": 1
+    },
+    {
+        "item_type": 6693,
+        "item_name": "\u708e\u72fc\u517d",
+        "item_use": 9,
+        "item_exc": 0,
+        "item_set": 0,
+        "item_lev": 0,
+        "item_rate": 10,
+        "color": "text-danger",
+        "order": 1
+    },
+    {
+        "item_type": 6693,
+        "item_name": "\u708e\u72fc\u517d",
+        "item_use": 1,
+        "item_exc": 0,
+        "item_set": 0,
+        "item_lev": 0,
+        "item_rate": 5,
+        "color": "text-danger",
+        "order": 2
+    }
+]

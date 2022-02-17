@@ -1,0 +1,191 @@
+
+/*物品寄售*/
+.data-info {
+	cursor: pointer;
+	/*position: absolute;*/
+	opacity: 0.8;
+}
+
+.data-info:hover {
+	/*padding: 1px;*/
+	opacity: 1;
+}
+
+.data-info img {
+	/*width: 100%;*/
+	/*height: 100%;*/
+	object-fit: contain;
+}
+
+/*新闻*/
+.news:hover{
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	-webkit-transform: translate(0, -1px) !important;
+	transform: translate(0, -1px) !important;
+}
+/* 战盟个人资料样式 */
+.profiles_guild_card {
+	width: 100%;
+	background: #000000 url('../img/Top/profile/guild.jpg') no-repeat;
+	background-size: cover;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: .05rem;
+	-khtml-border-radius: 10px;
+	border: 1px solid #333;
+	-moz-box-shadow: 0 0 5px #555;
+	-webkit-box-shadow: 0 0 5px #555;
+	box-shadow: 0 0 5px #555;
+	color: #fff;
+}
+.guild-member{width: 18%;}
+/* 玩家个人资料样式 */
+.profiles_player_card {
+	-moz-border-radius: 10px;
+	 -webkit-border-radius: 10px;
+	 border-radius: .05rem;
+	-khtml-border-radius: 10px;
+	border: 1px solid #333;
+	-moz-box-shadow: 0 0 5px #555;
+	 -webkit-box-shadow: 0 0 5px #555;
+	box-shadow: 0 0 5px #555;
+	color: #fff;
+}
+
+.DK.profiles_player_card, .BK.profiles_player_card, .BM.profiles_player_card, .DGK.profiles_player_card {
+	background: url('../img/Top/profile/knight.jpg') no-repeat; background-size: cover;
+}
+.DW.profiles_player_card, .SM.profiles_player_card, .GM.profiles_player_card, .SW.profiles_player_card {
+	background: url('../img/Top/profile/wiz.jpg') no-repeat; background-size: cover;
+}
+.ELF.profiles_player_card, .ME.profiles_player_card, .HE.profiles_player_card, .NE.profiles_player_card {
+	background: url('../img/Top/profile/elf.jpg') no-repeat; background-size: cover;
+}
+.SUM.profiles_player_card, .BS.profiles_player_card, .DSM.profiles_player_card, .DS.profiles_player_card {
+	background: url('../img/Top/profile/sum.jpg') no-repeat; background-size: cover;
+}
+.DL.profiles_player_card, .LE.profiles_player_card, .EL.profiles_player_card {
+	background: url('../img/Top/profile/dl.jpg') no-repeat; background-size: cover;
+}
+.MG.profiles_player_card, .DM.profiles_player_card, .MK.profiles_player_card {
+	background: url('../img/Top/profile/mg.jpg') no-repeat; background-size: cover;
+}
+.RF.profiles_player_card, .FM.profiles_player_card, .FB.profiles_player_card {
+	background: url('../img/Top/profile/rf.jpg') no-repeat; background-size: cover;
+}
+.GL.profiles_player_card, .ML.profiles_player_card, .SL.profiles_player_card {
+	background: url('../img/Top/profile/gl.jpg') no-repeat; background-size: cover;
+}
+.RW.profiles_player_card, .RSM.profiles_player_card, .GRM.profiles_player_card {
+	background: url('../img/Top/profile/rw.jpg') no-repeat; background-size: cover;
+}
+.SLA.profiles_player_card, .RSLA.profiles_player_card, .GSLA.profiles_player_card {
+	background: url('../img/Top/profile/sla.jpg') no-repeat; background-size: cover;
+}
+.GUN.profiles_player_card,.BGUN.profiles_player_card,.MGUN.profiles_player_card{
+	background: url('../img/Top/profile/guncrusher.jpg') no-repeat; background-size: cover;
+}
+/* 玩家个人信息::排名 */
+#InventoryC {
+	background-image: url('../img/Top/profile/inventoryc.png');
+	width: 395px;
+	height: 319px;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+}
+#InventoryC > img {
+	margin-top: 20%;
+}
+#InventoryC > div {
+    position:absolute;
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+#InventoryC #in_weapon {width: 73px;height:136px;bottom:0;left: 1px;}
+#InventoryC #in_shield {width: 75px;height:136px;bottom:0;right: 0;}
+#InventoryC #in_helm {width: 59px;height:68px;top:2px;left: 69px;}
+#InventoryC #in_armor {width: 72px;height:110px;top:72px;left: 39px;}
+#InventoryC #in_pants {width: 62px;height:68px;bottom:8px;left:82px;}
+#InventoryC #in_gloves {width: 85px;height: 56px;top: 122px;right: 43px;}
+#InventoryC #in_boots {width: 57px;height: 76px;bottom: 2px;right: 84px;}
+#InventoryC #in_wings {width: 127px;height: 113px;top: 1px;right: 1px;}
+#InventoryC #in_zoo {width: 57px;height: 67px;top:2px;left: 2px;}
+#InventoryC #in_pendant {width: 30px;height: 30px;top: 24px;right: 136px;}
+#InventoryC #in_ring1 {width: 30px;height: 30px;bottom: 94px;left:96px;}
+#InventoryC #in_ring2 {width: 30px;height: 30px;bottom: 94px;right: 98px;}
+#InventoryC #in_pentagram {width: 80px;height: 80px;bottom: 3px;right: 156px;}
+#InventoryC #in_ear1 {width: 30px;height: 30px;top: 76px;left: 1px;}
+#InventoryC #in_ear2 {width: 30px;height: 30px;top: 76px;left: 119px;}
+
+.ItemData{z-index: 10;width:auto;padding: 5px 18px 5px 18px;background:rgba(0,0,0,0.9);font-size:12px;text-align:center;color:#fff;border:0.01rem solid #a0580042;border-radius:2px;}
+.Items{line-height:20px;z-index: 10}
+.ExcItemName{color:#18F479;font-size: 13px}
+.SetItemName{color:#00D100;font-size: 13px}
+.SocketItemName{color:#723fcc;font-size: 13px}
+.ItemName{color:#FFF;font-size: 14px}
+.PvP380Item{color:#CC7FCC;}
+.SocketOption{color:#723fcc}
+.SocketOptionText{color: #7698b0}
+.SocketOptionNull{color:#777}
+.UseItemReq{color:#FF0000}
+.ExcItemOption{color:#5694f1}
+.LuckyItem{color:#5694f1}
+.ItemOption{color:#5694f1}
+.SetOption{color:#DCB016;}
+.SetOptionText{color:#777777}
+.PeriodItem{color:#dc5016}
+.PeriodItemExpire{color:#FF0000}
+.HarmonyOption{color:#DCB016}
+.serial{color: #9c9c9c;font-size:11px}
+.skillNameText{color:#5694f1}
+.attributeName{color:#DCB016;}
+.attributeText{color:#5694f1}
+.attribute{color: #00a300;}
+.MasteryBonusOption{color: #b30798}
+.MasteryBonusText{color: #5074cb}
+.WingGradeOption{color:#5694f1}
+.WingAttribute{color: #be0001}
+.PentagramNone{color:#777}
+.Pentagram{color: #cc2b20}
+.AddOption{color: #ff8bac;font-weight: 700}
+.CustomItem{color:#FF0000}
+.CustomItemBufferEX{color:#FF0000}
+.Custom0 {color:#FFFFFF}/**白色**/
+.Custom1 {color:#0000CD}/**蓝色**/
+.Custom2 {color:#FF0000}/**红色**/
+.Custom3 {color:#FFD700}/**金色**/
+.Custom4 {color:#3CB371}/**绿色**/
+.Custom5 {background:#FF0000;color:#FFFFFF}/**红底白字**/
+.Custom6 {color:#FFC0CB}/**粉红色**/
+.Custom7 {background:#FFFFFF;color:#0000CD}/**白底蓝字**/
+.Custom8 {background:#A0522D;color:#FFFFFF}/**土黄色底白字**/
+.Custom9 {background:#1E90FF;color:#00FF00}/**浅蓝底绿字**/
+.Custom10{color:#808080}/**灰色**/
+.Custom11{color:#800080}/**紫色**/
+.Custom12{color:#BA55D3}/**紫色**/
+.Custom13{color:#F4A460}/**棕色**/
+.Custom14{color:#9932CC}/**紫色**/
+
+/* 交易市场 */
+#InventoryM {
+	background-image: url('../img/inventory/equipment.jpg');
+	width: 201px;
+	height: 184px;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+}
+#InventoryM #in_weapon {position: absolute;width: 50px;height: 77px;left: 1px;top: 54px;}
+#InventoryM #in_shield {position: absolute;width: 50px;height: 77px;right: 1px;top: 53px;}
+#InventoryM #in_helm {position: absolute;width: 49px;height: 49px;top: 1px;left: 76px;}
+#InventoryM #in_armor {position: absolute;width: 50px;height: 77px;top: 55px;left: 76px;}
+#InventoryM #in_pants {position: absolute;width: 49px;height: 49px;bottom: 1px;left: 75px;}
+#InventoryM #in_gloves {position: absolute;width: 49px;height: 49px;bottom: 1px;left: 1px;}
+#InventoryM #in_boots {position: absolute;width: 49px;height: 49px;bottom: 1px;right: 1px;}
+#InventoryM #in_wings {position: absolute;width: 68px;height: 50px;top: 1px;right: 1px;}
+#InventoryM #in_zoo {position: absolute;width: 49px;height: 49px;top: 1px;left: 1px;}
+#InventoryM #in_pendant {position: absolute;width: 28px;height: 28px;top: 55px;right: 124px;}
+#InventoryM #in_ring1 {position: absolute;width: 28px;height: 28px;bottom: 22px;left: 49px;}
+#InventoryM #in_ring2 {position: absolute;width: 28px;height: 28px;bottom: 23px;right: 49px;}

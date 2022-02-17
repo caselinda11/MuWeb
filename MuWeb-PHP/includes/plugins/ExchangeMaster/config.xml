@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <log>1</log>
+    <min_master>1</min_master>
+    <items>7190</items>
+    <master_point>1</master_point>
+    <item_name>创造宝石</item_name>
+    <max_master>600</max_master>
+    <master_level>1</master_level>
+<point>4</point><item_number>2</item_number></settings>

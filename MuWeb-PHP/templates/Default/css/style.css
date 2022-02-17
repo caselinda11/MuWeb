@@ -1,0 +1,283 @@
+/*在这里放置全局样式*/
+a{text-decoration: none;}           /*这个是设置a标签的默认状态去除下划线*/
+a:visited{text-decoration: none;}   /*这个是设置a标签的访问过后的状态去除下划线*/
+a:hover {text-decoration: none;}    /*这个是设置a标签的鼠标覆盖状态去除下划线*/
+a:active{text-decoration:none;}     /*这个是设置a标签的活跃状态去除下划线*/
+.more{
+    color: #7a7a7a;
+    background-color: #e9ecef;
+}
+
+body{
+    background: #000206 url(../img/bg.jpg) center 0 no-repeat;
+    font-size: 15px;
+    /*font-family: 'songti', sans-serif;*/
+    overflow-x: hidden;
+}
+.container{
+    max-width: 1280px;
+    /*min-width: 1280px;*/
+}
+header{
+    background: #101010;
+}
+
+.btn,.alert,.breadcrumb{
+    border-radius: .05rem;
+}
+.btn-default {
+    color: #797878;
+    background-color: transparent;
+    border-color: #878585;
+    -moz-transition: all .1s ease-in;
+    -o-transition: all .1s ease-in;
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+.btn-default:active, .btn-default:focus, .btn-default:hover {
+    color: #fff !important;
+    background-color: #ff0000 !important;
+    border-color: #ff0000 !important;
+}
+.head{
+    padding: 0 40px;
+    height: 35px;
+    margin: 0 auto 0;
+    position: relative;
+}
+.head h1 {
+    padding: 7px 10px 0 5px;
+}
+.navbar-tag{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+.w-logo{
+    display: block;
+    width: 29px;
+    height: 18px;
+    background-position: 0 0;
+    text-indent: -9999em;
+    background-image: url(../img/bg_topbar_split.png);
+    background-repeat: no-repeat;
+}
+.link {
+    padding: 5px 10px 0 5px;
+    color:#999;
+}
+.link a{
+    color:#999;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FF0000;
+}
+.navbar-light .navbar-nav .active>.nav-link:hover, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .show>.nav-link:hover {
+    color: rgba(255,255,255,.6);
+}
+.navbar-light .navbar-toggler {
+    color: #FFF;
+    border-color: rgba(255,255,255,.9);
+}
+.nav-bg{
+    background: linear-gradient(
+            to right,
+            rgba(0,0,0,0) 0%,
+            rgba(0,0,0,0.1) 5%,
+            rgba(0,0,0,0.2) 10%,
+            rgba(0,0,0,0.3) 20%,
+            rgba(0,0,0,0.4) 30%,
+            rgba(0,0,0,0.5) 40%,
+            rgba(0,0,0,0.8) 50%,
+            rgba(0,0,0,0.5) 60%,
+            rgba(0,0,0,0.4) 70%,
+            rgba(0,0,0,0.3) 80%,
+            rgba(0,0,0,0.2) 90%,
+            rgba(0,0,0,0.1) 95%,
+            rgba(0,0,0,0) 100%) center 100%;
+}
+.nav-bg li .active{
+    /*box-shadow: inset 0 14px 16px -18px #fc3030;*/
+    border-bottom: 1px solid #fc3030;
+}
+
+.menu a{
+    color: #CCCCCC;
+}
+.menu a:hover{
+    color: #FF0000;
+}
+.menu .active{
+    color: #FF0000;
+}
+.btn_downLoad {
+    width: 260px;
+    height: 222px;
+    margin-top: 100px;
+    margin-left: 44px;
+    z-index: 2;
+}
+.btn_downLoad{
+    background:url("../img/btn_gameStatr01_off.png") 0 0 no-repeat;
+}
+.btn_downLoad:hover {
+    background:url("../img/btn_gameStatr01_on.png") 0 0 no-repeat;
+}
+
+.main{
+    background-color: #fff;
+    margin-right: 0;
+    margin-left: 0;
+}
+.footer{
+    background-color: #efefef;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.worldLink {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    color: #848484;
+}
+.worldLink select{
+    background-color: #c9c9ca;
+    color: #848484;
+}
+.User td {
+    cursor: pointer;transition: all 0.3s;
+    width: 100%;
+}
+.User td:hover{
+    transform: scale(1.05);
+    color: #fff !important;
+    background-color: #ff0000 !important;
+    border-color: #ff0000 !important;
+    text-align: center;
+}
+.User>td>a{
+    display: block;
+    text-align: center;
+}
+
+
+.qq{
+    background: #388fda;
+}
+
+.qq:hover {
+    background: #399cea;
+}
+.qqQun{
+    background: #1c7430;
+}
+.qqQun:hover{
+    background: #269640;
+}
+.btn-social-counter {
+    display: block;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid hsla(0, 0%, 100%, .05);
+    border-radius: .05rem;
+    min-height: 55px;
+    position: relative;
+    overflow: hidden;
+    background-clip: padding-box;
+    padding: 10px 60px 10px 80px;
+    transition: all .3s ease-in-out;
+    transform: translateZ(0);
+}
+.btn-social-counter+.btn-social-counter {
+    margin-top: 10px
+}
+.btn-social-counter:hover {
+    color: #fff
+}
+.btn-social-counter__icon {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 68px;
+    background-color: rgba(0, 0, 0, .1);
+    text-align: center;
+    font-size: 18px
+}
+.btn-social-counter__icon .fa {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.btn-social-counter__title {
+    font-size: 11px;
+    line-height: 1.2em;
+    color: #fff;
+    margin-bottom: 1px;
+    letter-spacing: -.02em
+}
+@media (min-width:992px) {
+    .btn-social-counter__title {
+        font-size: 15px
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .btn-social-counter__title {
+        font-size: 11px
+    }
+}
+.btn-social-counter__count {
+    display: block;
+    font-size: 10px;
+    line-height: 1.2em;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.btn-social-counter__add-icon {
+    display: block;
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    right: 23px;
+    top: 50%;
+    margin-top: -13px
+}
+.btn-social-counter__add-icon:after,
+.btn-social-counter__add-icon:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #fff;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform .2s ease-in-out
+}
+.btn-social-counter__add-icon:before {
+    width: 8px;
+    height: 2px
+}
+.btn-social-counter__add-icon:after {
+    width: 2px;
+    height: 8px
+}
+.btn-social-counter:hover .btn-social-counter__add-icon:after,
+.btn-social-counter:hover .btn-social-counter__add-icon:before {
+    transform: translate(-50%, -50%) rotate(-90deg)
+}

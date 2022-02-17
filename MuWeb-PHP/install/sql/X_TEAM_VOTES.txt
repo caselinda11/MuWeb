@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[user_id] [int] NOT NULL,
+	[user_ip] [varchar](50) NOT NULL,
+	[user_machine] [varchar](50) NOT NULL,
+	[vote_site_id] [int] NOT NULL,
+	[timestamp] [varchar](50) NOT NULL
+) ON [PRIMARY]

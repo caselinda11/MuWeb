@@ -1,0 +1,92 @@
+[
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u5b98\u65b9\u4e3b\u9875",
+        "tag": "Home",
+        "link": "",
+        "visibility": "always",
+        "newtab": false,
+        "order": 10
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u65b0\u95fb\u8d44\u8baf",
+        "tag": "News",
+        "link": "news",
+        "visibility": "always",
+        "newtab": false,
+        "order": 20
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u8d26\u53f7\u6ce8\u518c",
+        "tag": "Register",
+        "link": "register",
+        "visibility": "guest",
+        "newtab": false,
+        "order": 30
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u6e38\u620f\u4e0b\u8f7d",
+        "tag": "Downloads",
+        "link": "downloads",
+        "visibility": "always",
+        "newtab": false,
+        "order": 40
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u82f1\u96c4\u6392\u540d",
+        "tag": "Rankings",
+        "link": "rankings",
+        "visibility": "always",
+        "newtab": false,
+        "order": 50
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u8d26\u53f7\u767b\u5f55",
+        "tag": "Login",
+        "link": "login",
+        "visibility": "guest",
+        "newtab": false,
+        "order": 60
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u8d26\u53f7\u7ba1\u7406",
+        "tag": "Account",
+        "link": "usercp\/myaccount",
+        "visibility": "user",
+        "newtab": false,
+        "order": 69
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u5b89\u5168\u767b\u51fa",
+        "tag": "LogOut",
+        "link": "logout",
+        "visibility": "user",
+        "newtab": false,
+        "order": 70
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "\u8d5e\u52a9\u6211\u4eec",
+        "tag": "Buy",
+        "link": "donation",
+        "visibility": "always",
+        "newtab": false,
+        "order": 91
+    }
+]

@@ -1,0 +1,121 @@
+/*在这里方式你想重置的样式*/
+.table td, .table th {
+     vertical-align: inherit;
+     padding: .55rem;
+     border-top: 1px solid #dee2e67a;
+}
+.table{
+     margin-bottom:0;
+}
+.jumbotron {
+     padding: 2rem 1rem;
+     margin-bottom: 0rem;
+}
+/*排名页面样式*/
+.rankings div{
+     padding-left: 0;
+     padding-right: 0;
+     margin-left: 0;
+     margin-right: 0;
+}
+.table thead th {
+     border-top: 2px solid #b3350f;
+     border-bottom: 1px solid #e3e3e3;
+     background-color: #fff;
+     height: 20px;
+     color: #b3350f;
+     font-size: 13px;
+}
+table.dataTable {
+     border-bottom: 1px solid #e3e3e3;
+}
+
+.btn,.alert,.breadcrumb{
+     border-radius: .05rem;
+}
+
+.btn-default {
+     color: #797878;
+     background-color: transparent;
+     border-color: #878585;
+     -moz-transition: all .1s ease-in;
+     -o-transition: all .1s ease-in;
+     -webkit-transition: all .1s ease-in;
+     transition: all .1s ease-in;
+     -moz-border-radius: 0px;
+     border-radius: 0px;
+}
+
+.btn-default:active, .btn-default:focus, .btn-default:hover {
+     color: #fff !important;
+     background-color: #ff0000 !important;
+     border-color: #ff0000 !important;
+}
+
+.card{
+     border-radius: .05rem;
+     background: url("../img/fon-sidebar.jpg");
+     box-shadow: 0px 0px 5px 0px rgb(67 84 128 / 0.4);
+}
+.card-header{
+     background-color: rgba(0,0,0,.02);
+     border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+table.dataTable thead th, table.dataTable thead td {
+     border-bottom: 1px solid #b3350f;
+}
+table.dataTable.no-footer {
+     border-bottom: 1px solid #b3350f;
+}
+.table-bordered td, .table-bordered th {
+     border: 1px solid #dee2e670;
+}
+
+.form-control {
+     border-radius: .05rem;
+     border: 1px solid #ced4da73;
+}
+
+.navbar-light .navbar-nav .nav-link{
+     font-size: 15px;
+     font-weight: bold;
+     text-transform: uppercase;
+     color:#377594;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+     color: #000 !important;
+     /*box-shadow: inset 0px 14px 16px -18px #000;*/
+     border-bottom: 1px solid #000;
+}
+
+.btn-outline-dark{
+     background: #d7d7d7;
+     border-color: #9d9d9d;
+}
+@media (min-width: 992px){
+     .navbar-expand-lg .navbar-nav .nav-link {
+          padding-right: 1.0rem;
+          padding-left: 1.0rem;
+     }
+}
+.carousel-caption{
+     left: 5%;
+     right: unset;
+     bottom: 55px;
+}
+.carousel-indicators{
+     justify-content:unset;
+
+}
+.carousel-indicators li {
+     width: 16px;
+     height: 16px;
+     background-color: #363636;
+}
+.carousel-indicators .active {
+     background-color: #CA3B0F;
+}
+.navbar-light .navbar-toggler {
+     border-color: #FFF;
+}

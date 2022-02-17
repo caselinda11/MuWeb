@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<active>1</active>
+	<results>5000</results>
+	<update_time>500</update_time>
+	<show_date>1</show_date>
+	<show_default>level</show_default>
+	<show_place_number/>
+	<enable_level>1</enable_level>
+	<enable_guilds>1</enable_guilds>
+	<enable_votes>0</enable_votes>
+	<excluded_characters>TEST</excluded_characters>
+	<level_overlay/>
+	<show_location>1</show_location>
+	<show_online_status>1</show_online_status>
+	<show_gens_status>1</show_gens_status>
+	<show_kill_status>1</show_kill_status>
+	<show_money>1</show_money>
+	<show_total_status>1</show_total_status>
+	<show_level>1</show_level>
+	<show_level_group>show</show_level_group>
+	<enable_gens>1</enable_gens>
+<show_page>25</show_page></settings>

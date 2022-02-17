@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <credit_type>0</credit_type>
+    <min_price>50</min_price>
+    <max_price>2000000</max_price>
+    <min_level>0</min_level>
+    <max_level>15</max_level>
+    <exclude>0,512</exclude>
+    <extend_warehouse>0</extend_warehouse>
+    <vip_items>0</vip_items>
+    <price_type>0</price_type>
+    <price_rate>5</price_rate>
+    <limit>1</limit>
+    <limit_price_type>2</limit_price_type>
+</settings>

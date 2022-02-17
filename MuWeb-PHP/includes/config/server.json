@@ -1,0 +1,15 @@
+[
+    {
+        "SERVER_GROUP": 0,
+        "SERVER_NAME": "\u7b2c\u4e00\u5927\u533a",
+        "SERVER_DB_NAME": "MuOnlineMyS603cs",
+        "SERVER_DB2_NAME": "",
+        "SQL_USE_2_DB": false,
+        "SERVER_IP": "61.186.94.97",
+        "SERVER_DB_USER": "sa",
+        "SERVER_DB_PASS": "Zj520520!@#$%^",
+        "SERVER_DB_POST": 1433,
+        "SERVER_JS_POST": 55970,
+        "order": 1
+    }
+]

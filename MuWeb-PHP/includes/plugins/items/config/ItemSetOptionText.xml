@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 套装属性文本文件
+	Option->Set->Index值代表ItemSetOption中配置的Idx值
+ -->
+<Option>
+	<Set Index="0" Name="力量增加 " Rate="1"/>
+	<Set Index="1" Name="敏捷增加 " Rate="1"/>
+	<Set Index="2" Name="智力增加 " Rate="1"/>
+	<Set Index="3" Name="体力增加 " Rate="1"/>
+	<Set Index="4" Name="声望 增加 " Rate="1"/>
+	<Set Index="5" Name="最小攻击力增加 " Rate="1"/>
+	<Set Index="6" Name="最大攻击力增加 " Rate="1"/>
+	<Set Index="7" Name="魔法攻击力增加 " Rate="2"/>
+	<Set Index="8" Name="伤害增加 " Rate="1"/>
+	<Set Index="9" Name="攻击率增加 " Rate="1"/>
+	<Set Index="10" Name="防御力增加 " Rate="1"/>
+	<Set Index="11" Name="最大生命值增加 " Rate="1"/>
+	<Set Index="12" Name="最大魔法值增加 " Rate="1"/>
+	<Set Index="13" Name="最大AG增加 " Rate="1"/>
+	<Set Index="14" Name="AG增加值 " Rate="1"/>
+	<Set Index="15" Name="幸运一击概率 增加 " Rate="2"/>
+	<Set Index="16" Name="幸运一击伤害 增加 " Rate="1"/>
+	<Set Index="17" Name="卓越一击概率 增加 " Rate="2"/>
+	<Set Index="18" Name="卓越一击伤害 增加 " Rate="1"/>
+	<Set Index="19" Name="技能攻击力增加 " Rate="1"/>
+	<Set Index="20" Name="双倍伤害概率 " Rate="2"/>
+	<Set Index="21" Name="无视目标防御 " Rate="2"/>
+	<Set Index="22" Name="盾牌佩戴时防御力增加 " Rate="2"/>
+	<Set Index="23" Name="双手剑佩戴时伤害增加 " Rate="2"/>
+	<Set Index="24" Name="提高所有属性" Rate="1"/>
+	<Set Index="25" Name="提高基本防御力" Rate="1"/>
+	<Set Index="26" Name="攻击力增加" Rate="1"/>
+	<Set Index="27" Name="魔法攻击力增加" Rate="1"/>
+	<Set Index="28" Name="攻击力提高强化" Rate="2"/>
+	<Set Index="29" Name="防御力提高强化" Rate="2"/>
+	<Set Index="30" Name="祝福 强化" Rate="1"/>
+	<Set Index="31" Name="三倍伤害概率" Rate="2"/>
+	<Set Index="32" Name="BUFF技能 (狂暴术/暗黑) 增加" Rate="2"/>
+	<Set Index="33" Name="法术/诅咒伤害增加" Rate="1"/>
+	<Set Index="35" Name="套装属性 35" Rate="0"/>
+	<Set Index="36" Name="套装属性 36" Rate="0"/>
+	<Set Index="37" Name="套装属性 37" Rate="0"/>
+	<Set Index="38" Name="套装属性 38" Rate="0"/>
+	<Set Index="39" Name="套装属性 39" Rate="0"/>
+	<Set Index="40" Name="套装属性 40" Rate="0"/>
+	<Set Index="41" Name="套装属性 41" Rate="0"/>
+	<Set Index="42" Name="套装属性 42" Rate="0"/>
+	<Set Index="43" Name="套装属性 43" Rate="0"/>
+	<Set Index="44" Name="套装属性 44" Rate="0"/>
+	<Set Index="45" Name="套装属性 45" Rate="0"/>
+	<Set Index="46" Name="套装属性 46" Rate="0"/>
+	<Set Index="47" Name="套装属性 47" Rate="0"/>
+	<Set Index="48" Name="套装属性 48" Rate="0"/>
+	<Set Index="49" Name="套装属性 49" Rate="0"/>
+	<Set Index="50" Name="套装属性 50" Rate="0"/>
+	<Set Index="51" Name="套装属性 51" Rate="0"/>
+	<Set Index="52" Name="套装属性 52" Rate="0"/>
+	<Set Index="53" Name="套装属性 53" Rate="0"/>
+	<Set Index="54" Name="套装属性 54" Rate="0"/>
+	<Set Index="55" Name="套装属性 55" Rate="0"/>
+	<Set Index="56" Name="套装属性 56" Rate="0"/>
+	<Set Index="57" Name="套装属性 57" Rate="0"/>
+	<Set Index="58" Name="套装属性 58" Rate="0"/>
+	<Set Index="59" Name="套装属性 59" Rate="0"/>
+	<Set Index="60" Name="套装属性 60" Rate="0"/>
+	<Set Index="61" Name="套装属性 61" Rate="0"/>
+	<Set Index="62" Name="套装属性 62" Rate="0"/>
+	<Set Index="63" Name="套装属性 63" Rate="0"/>
+	<Set Index="64" Name="套装属性 64" Rate="0"/>
+	<Set Index="65" Name="套装属性 65" Rate="0"/>
+	<Set Index="66" Name="套装属性 66" Rate="0"/>
+	<Set Index="67" Name="套装属性 67" Rate="0"/>
+	<Set Index="68" Name="套装属性 68" Rate="0"/>
+	<Set Index="69" Name="套装属性 69" Rate="0"/>
+	<Set Index="70" Name="套装属性 70" Rate="0"/>
+	<Set Index="71" Name="套装属性 71" Rate="0"/>
+	<Set Index="72" Name="套装属性 72" Rate="0"/>
+	<Set Index="73" Name="套装属性 73" Rate="0"/>
+	<Set Index="74" Name="套装属性 74" Rate="0"/>
+	<Set Index="75" Name="套装属性 75" Rate="0"/>
+	<Set Index="76" Name="套装属性 76" Rate="0"/>
+	<Set Index="77" Name="套装属性 77" Rate="0"/>
+	<Set Index="78" Name="套装属性 78" Rate="0"/>
+	<Set Index="79" Name="套装属性 79" Rate="0"/>
+	<Set Index="80" Name="套装属性 80" Rate="0"/>
+	<Set Index="81" Name="套装属性 81" Rate="0"/>
+	<Set Index="82" Name="套装属性 82" Rate="0"/>
+	<Set Index="83" Name="套装属性 83" Rate="0"/>
+	<Set Index="84" Name="套装属性 84" Rate="0"/>
+	<Set Index="85" Name="套装属性 85" Rate="0"/>
+	<Set Index="86" Name="套装属性 86" Rate="0"/>
+	<Set Index="87" Name="套装属性 87" Rate="0"/>
+	<Set Index="88" Name="套装属性 88" Rate="0"/>
+	<Set Index="89" Name="套装属性 89" Rate="0"/>
+	<Set Index="90" Name="套装属性 90" Rate="0"/>
+	<Set Index="91" Name="套装属性 91" Rate="0"/>
+	<Set Index="92" Name="套装属性 92" Rate="0"/>
+	<Set Index="93" Name="套装属性 93" Rate="0"/>
+	<Set Index="94" Name="套装属性 94" Rate="0"/>
+	<Set Index="95" Name="套装属性 95" Rate="0"/>
+	<Set Index="96" Name="套装属性 96" Rate="0"/>
+	<Set Index="97" Name="套装属性 97" Rate="0"/>
+	<Set Index="98" Name="套装属性 98" Rate="0"/>
+	<Set Index="99" Name="套装属性 99" Rate="0"/>
+	<Set Index="100" Name="套装属性 100" Rate="0"/>
+	<Set Index="101" Name="套装属性 101" Rate="0"/>
+	<Set Index="102" Name="套装属性 102" Rate="0"/>
+	<Set Index="103" Name="套装属性 103" Rate="0"/>
+	<Set Index="104" Name="套装属性 104" Rate="0"/>
+	<Set Index="105" Name="套装属性 105" Rate="0"/>
+	<Set Index="106" Name="套装属性 106" Rate="0"/>
+	<Set Index="107" Name="套装属性 107" Rate="0"/>
+	<Set Index="108" Name="套装属性 108" Rate="0"/>
+	<Set Index="109" Name="套装属性 109" Rate="0"/>
+	<Set Index="110" Name="套装属性 110" Rate="0"/>
+	<Set Index="111" Name="套装属性 111" Rate="0"/>
+	<Set Index="112" Name="套装属性 112" Rate="0"/>
+	<Set Index="113" Name="套装属性 113" Rate="0"/>
+	<Set Index="114" Name="套装属性 114" Rate="0"/>
+	<Set Index="115" Name="套装属性 115" Rate="0"/>
+	<Set Index="116" Name="套装属性 116" Rate="0"/>
+	<Set Index="117" Name="套装属性 117" Rate="0"/>
+	<Set Index="118" Name="套装属性 118" Rate="0"/>
+	<Set Index="119" Name="套装属性 119" Rate="0"/>
+	<Set Index="120" Name="精通攻击力 增加 " Rate="1"/>
+	<Set Index="121" Name="精通魔法攻击力 增加 " Rate="1"/>
+	<Set Index="122" Name="精通基本防御力 增加 " Rate="1"/>
+	<Set Index="123" Name="精通卓越一击伤害 增加 " Rate="1"/>
+	<Set Index="124" Name="精通致命一击伤害 增加 " Rate="1"/>
+	<Set Index="125" Name="精通攻击力 增加 " Rate="1"/>
+	<Set Index="126" Name="精通魔力 增加 " Rate="1"/>
+	<Set Index="127" Name="精通基本防御力 增加 " Rate="1"/>
+	<Set Index="128" Name="精通卓越一击伤害 增加 " Rate="1"/>
+	<Set Index="129" Name="精通致命一击伤害 增加 " Rate="1"/>
+	<Set Index="130" Name="精通攻击力 增加 " Rate="1"/>
+	<Set Index="131" Name="精通魔法攻击力 增加 " Rate="1"/>
+	<Set Index="132" Name="精通基本防御力 增加 " Rate="1"/>
+	<Set Index="133" Name="精通卓越一击伤害 增加" Rate="1"/>
+	<Set Index="134" Name="精通致命一击伤害 增加 " Rate="1"/>
+	<Set Index="135" Name="套装属性135 " Rate="1"/>
+	<Set Index="136" Name="套装属性136 " Rate="1"/>
+	<Set Index="137" Name="套装属性137 " Rate="1"/>
+	<Set Index="138" Name="套装属性138 " Rate="1"/>
+	<Set Index="139" Name="套装属性139 " Rate="1"/>
+	<Set Index="140" Name="套装属性140 " Rate="1"/>
+	<Set Index="141" Name="套装属性141 " Rate="1"/>
+	<Set Index="142" Name="套装属性142 " Rate="1"/>
+	<Set Index="143" Name="套装属性143 " Rate="1"/>
+	<Set Index="144" Name="套装属性144 " Rate="1"/>
+	<Set Index="145" Name="套装属性145 " Rate="0"/>
+	<Set Index="146" Name="套装属性146 " Rate="0"/>
+	<Set Index="147" Name="套装属性147 " Rate="0"/>
+	<Set Index="148" Name="套装属性148 " Rate="0"/>
+	<Set Index="149" Name="套装属性149 " Rate="0"/>
+	<Set Index="150" Name="套装属性150 " Rate="0"/>
+	<Set Index="151" Name="套装属性151 " Rate="0"/>
+	<Set Index="152" Name="套装属性152 " Rate="0"/>
+	<Set Index="153" Name="套装属性153 " Rate="0"/>
+	<Set Index="154" Name="套装属性154 " Rate="0"/>
+	<Set Index="155" Name="套装属性155 " Rate="0"/>
+	<Set Index="156" Name="套装属性156 " Rate="0"/>
+	<Set Index="157" Name="套装属性157 " Rate="0"/>
+	<Set Index="158" Name="套装属性158 " Rate="0"/>
+	<Set Index="159" Name="套装属性159 " Rate="0"/>
+	<Set Index="160" Name="套装属性160 " Rate="0"/>
+	<Set Index="161" Name="套装属性161 " Rate="0"/>
+	<Set Index="162" Name="套装属性162 " Rate="0"/>
+	<Set Index="163" Name="套装属性163 " Rate="0"/>
+	<Set Index="164" Name="套装属性164 " Rate="0"/>
+	<Set Index="165" Name="套装属性165 " Rate="0"/>
+	<Set Index="166" Name="套装属性166 " Rate="0"/>
+	<Set Index="167" Name="套装属性167 " Rate="0"/>
+	<Set Index="168" Name="套装属性168 " Rate="0"/>
+	<Set Index="169" Name="套装属性169 " Rate="0"/>
+	<Set Index="170" Name="套装属性170 " Rate="0"/>
+	<Set Index="171" Name="套装属性171 " Rate="0"/>
+	<Set Index="172" Name="套装属性172 " Rate="0"/>
+	<Set Index="173" Name="套装属性173 " Rate="0"/>
+	<Set Index="174" Name="套装属性174 " Rate="0"/>
+	<Set Index="175" Name="套装属性175 " Rate="0"/>
+	<Set Index="176" Name="套装属性176 " Rate="0"/>
+	<Set Index="177" Name="套装属性177 " Rate="0"/>
+	<Set Index="178" Name="套装属性178 " Rate="0"/>
+	<Set Index="179" Name="套装属性179 " Rate="0"/>
+	<Set Index="180" Name="套装属性180 " Rate="0"/>
+	<Set Index="181" Name="套装属性181 " Rate="0"/>
+	<Set Index="182" Name="套装属性182 " Rate="0"/>
+	<Set Index="183" Name="套装属性183 " Rate="0"/>
+	<Set Index="184" Name="套装属性184 " Rate="0"/>
+	<Set Index="185" Name="套装属性185 " Rate="0"/>
+	<Set Index="186" Name="套装属性186 " Rate="0"/>
+	<Set Index="187" Name="套装属性187 " Rate="0"/>
+	<Set Index="188" Name="套装属性188 " Rate="0"/>
+	<Set Index="189" Name="套装属性189 " Rate="0"/>
+	<Set Index="190" Name="套装属性190 " Rate="0"/>
+	<Set Index="191" Name="套装属性191 " Rate="0"/>
+	<Set Index="192" Name="套装属性192 " Rate="0"/>
+	<Set Index="193" Name="套装属性193 " Rate="0"/>
+	<Set Index="194" Name="套装属性194 " Rate="0"/>
+	<Set Index="195" Name="套装属性195 " Rate="0"/>
+	<Set Index="196" Name="套装属性196 " Rate="0"/>
+	<Set Index="197" Name="套装属性197 " Rate="0"/>
+	<Set Index="198" Name="套装属性198 " Rate="0"/>
+	<Set Index="199" Name="套装属性199 " Rate="0"/>
+	<Set Index="200" Name="套装属性200 " Rate="0"/>
+	<Set Index="201" Name="套装属性201 " Rate="0"/>
+	<Set Index="202" Name="套装属性202 " Rate="0"/>
+	<Set Index="203" Name="套装属性203 " Rate="0"/>
+	<Set Index="204" Name="套装属性204 " Rate="0"/>
+	<Set Index="205" Name="套装属性205 " Rate="0"/>
+	<Set Index="206" Name="套装属性206 " Rate="0"/>
+	<Set Index="207" Name="套装属性207 " Rate="0"/>
+	<Set Index="208" Name="套装属性208 " Rate="0"/>
+	<Set Index="209" Name="套装属性209 " Rate="0"/>
+	<Set Index="210" Name="套装属性210 " Rate="0"/>
+	<Set Index="211" Name="套装属性211 " Rate="0"/>
+	<Set Index="212" Name="套装属性212 " Rate="0"/>
+	<Set Index="213" Name="套装属性213 " Rate="0"/>
+	<Set Index="214" Name="套装属性214 " Rate="0"/>
+	<Set Index="215" Name="套装属性215 " Rate="0"/>
+	<Set Index="216" Name="套装属性216 " Rate="0"/>
+	<Set Index="217" Name="套装属性217 " Rate="0"/>
+	<Set Index="218" Name="套装属性218 " Rate="0"/>
+	<Set Index="219" Name="套装属性219 " Rate="0"/>
+	<Set Index="220" Name="套装属性220 " Rate="0"/>
+	<Set Index="221" Name="套装属性221 " Rate="0"/>
+	<Set Index="222" Name="套装属性222 " Rate="0"/>
+	<Set Index="223" Name="套装属性223 " Rate="0"/>
+	<Set Index="224" Name="套装属性224 " Rate="0"/>
+	<Set Index="225" Name="套装属性225 " Rate="0"/>
+	<Set Index="226" Name="套装属性226 " Rate="0"/>
+	<Set Index="227" Name="套装属性227 " Rate="0"/>
+	<Set Index="228" Name="套装属性228 " Rate="0"/>
+	<Set Index="229" Name="套装属性229 " Rate="0"/>
+	<Set Index="230" Name="套装属性230 " Rate="0"/>
+	<Set Index="231" Name="套装属性231 " Rate="0"/>
+	<Set Index="232" Name="套装属性232 " Rate="0"/>
+	<Set Index="233" Name="套装属性233 " Rate="0"/>
+	<Set Index="234" Name="套装属性234 " Rate="0"/>
+	<Set Index="235" Name="套装属性235 " Rate="0"/>
+	<Set Index="236" Name="套装属性236 " Rate="0"/>
+	<Set Index="237" Name="套装属性237 " Rate="0"/>
+	<Set Index="238" Name="套装属性238 " Rate="0"/>
+	<Set Index="239" Name="套装属性239 " Rate="0"/>
+	<Set Index="240" Name="套装属性240 " Rate="0"/>
+	<Set Index="241" Name="套装属性241 " Rate="0"/>
+	<Set Index="242" Name="套装属性242 " Rate="0"/>
+	<Set Index="243" Name="攻击力增加 力量/x " Rate="0"/>
+	<Set Index="244" Name="攻击力增加 敏捷/x " Rate="0"/>
+	<Set Index="245" Name="防御力增加 敏捷性/x " Rate="0"/>
+	<Set Index="246" Name="防御力增加 体力/x " Rate="0"/>
+	<Set Index="247" Name="魔法攻击力增加 智力/x " Rate="0"/>
+	<Set Index="248" Name="冰属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="249" Name="毒属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="250" Name="雷属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="251" Name="火属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="252" Name="土属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="253" Name="风属性技能攻击力 增加 " Rate="0"/>
+	<Set Index="254" Name="水属性技能攻击力 增加 " Rate="0"/>
+</Option>

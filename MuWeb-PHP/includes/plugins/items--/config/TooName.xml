@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="GB2312"?>
+<item>
+	<Too Index="0"  Name="整套 物品属性信息" />
+	<Too Index="1"  Name="攻击力增加 +%d%%" />
+	<Too Index="2"  Name="攻击力增加 +%d" />
+	<Too Index="3"  Name="最大生命力 +%d%%" />
+	<Too Index="4"  Name="最大生命力 +%d" />
+	<Too Index="5"  Name="伤害减少 +%d%%" />
+	<Too Index="6"  Name="幸运一击概率 +%d%%" />
+	<Too Index="7"  Name="卓越一击概率 +%d%%" />
+	<Too Index="8"  Name="无视防御概率 +%d%%" />
+	<Too Index="9"  Name="双倍伤害概率 +%d%%" />
+	<Too Index="10" Name="增加怪物伤害 +%d%%" />
+	<Too Index="11" Name="吸收怪物伤害 +%d%%" />
+	<Too Index="12" Name="防御力增加 +%d%%" />
+	<Too Index="13" Name="增加一个特效,建议整套顶级之后可以有一个特效" />
+	<Too Index="14" Name="黑屏5秒 +%d%%" />
+	<Too Index="15" Name="冰冻束缚敌人5秒 +%d%%" />
+	<Too Index="16" Name="击晕敌人3秒 +%d%%" />
+	<Too Index="17" Name="暴气连击 +%d%%" />
+	<Too Index="18" Name="双倍伤害 +%d%%" />
+	<Too Index="19" Name="攻击力增加 +%d%%" />
+	<Too Index="20" Name="总血量增加 +%d%%" />
+	<Too Index="21" Name="防御力增加 +%d%%" />
+	<Too Index="22" Name="伤害减少 +%d%%" />
+	<Too Index="23" Name="无视防御 +%d%%" />
+	<Too Index="24" Name="一击必杀怪物 +%d%%" />
+	<Too Index="25" Name="一击必杀PVP +%d%%" />
+	<Too Index="26" Name="反弹伤害 +%d%%" />
+	<Too Index="27" Name="被攻击无敌5秒 +%d%%" />
+	<Too Index="28" Name="被攻击物理免疫5秒 +%d%%" />
+	<Too Index="29" Name="被攻击魔法免疫5秒 +%d%%" />
+	<Too Index="30" Name="被攻击完全恢复生命 +%d%%" />
+	<Too Index="31" Name="被攻击完全恢复魔法 +%d%%" />
+	<Too Index="32" Name="被攻击完全恢复AG +%d%%" />
+	<Too Index="33" Name="被攻击完全恢复SD +%d%%" />
+	<Too Index="34" Name="合成物品成功率增加 +%d%%" />
+	<Too Index="35" Name="合成翅膀成功率增加 +%d%%" />
+	<Too Index="36" Name="卓越掉率增加 +%d%%" />
+	<Too Index="37" Name="AG增加 +%d%%" />
+	<Too Index="38" Name="打怪掉落金钱增加 +%d%%" />
+	<Too Index="39" Name="打怪获得经验增加 +%d%%" />
+	<Too Index="40" Name="被攻击隐身3秒 +%d%%" />
+	<Too Index="41" Name="被攻击使用增加25%的生命之光(30秒) +%d%%" />
+	<Too Index="42" Name="被攻击对方立即死亡(怪物) +%d%%" />
+	<Too Index="43" Name="被攻击对方立即死亡(PVP) +%d%%" />
+	<Too Index="44" Name="被攻击对方扣当前血量10%(怪物) +%d%%" />
+	<Too Index="45" Name="被攻击对方扣当前血量10%(PVP) +%d%%" />
+	<Too Index="46" Name="被攻击反弹全部伤害概率 +%d%%" />
+	<Too Index="47" Name="攻击力增加 +%d%%" />
+	<Too Index="48" Name="防御力增加 +%d%%" />
+	<Too Index="49" Name="生命力增加 +%d%%" />
+	<Too Index="50" Name="幸运一击抵抗 +%d%%" />
+	<Too Index="51" Name="卓越一击抵抗 +%d%%" />
+	<Too Index="52" Name="双倍伤害抵抗 +%d%%" />
+	<Too Index="53" Name="无视防御抵抗 +%d%%" />
+	<Too Index="54" Name="增加连击伤害 +%d%%" />
+	<Too Index="55" Name="增加连击距离(仅支持新全职业连击) +%d%%" />
+	<Too Index="56" Name="增加让玩家弯腰的概率(最低伤害5) +%d%%" />
+	<Too Index="57" Name="增加对怪物伤害 +%d%%" />
+	<Too Index="58" Name="吸收怪物伤害 +%d%%" />
+	<Too Index="59" Name="增加PVP伤害 +%d%%" />
+	<Too Index="60" Name="增加PVP伤害 +%d%%" />
+	<Too Index="61" Name="吸收PVP伤害 +%d%%" />
+	<Too Index="62" Name="眩晕缠绕抵抗 +%d%%" />
+	<Too Index="63" Name="无视SD抵抗 +%d%%" />
+	<Too Index="64" Name="卓越一击增加 +%d%%" />
+	<Too Index="65" Name="幸运一击增加 +%d%%" />
+	<Too Index="66" Name="无视SD几率增加 +%d%%" />
+	<Too Index="66" Name="自定义属性" />
+	<Too Index="67" Name="自定义属性" />
+	<Too Index="68" Name="自定义属性" />
+	<Too Index="69" Name="自定义属性" />
+	<Too Index="70" Name="增加特效(火焰)" />
+	<Too Index="71" Name="增加特效(紫色缠绕)" />
+	<Too Index="72" Name="增加特效(防护盾)" />
+	<Too Index="73" Name="增加特效(黑色雾气)" />
+	<Too Index="74" Name="增加特效(泡泡)"  />
+	<Too Index="75" Name="增加特效(周围有闪光掉落)"/>
+	<Too Index="76" Name="增加特效(爆裂火焰闪现)" />
+	<Too Index="77" Name="增加特效(落雷闪现)" />
+	<Too Index="78" Name="增加特效(火焰闪电闪现)" />
+	<Too Index="79" Name="增加特效(闪电缠绕)" />
+	<Too Index="80" Name="增加特效(冷雾缠绕)" />
+	<Too Index="81" Name="增加特效(绿火迷踪)" />
+	<Too Index="82" Name="增加特效(火焰燃烧)" />
+</item>

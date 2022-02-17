@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- 默认卓越属性文件 不懂不建议修改 -->
+<ExcellentOptions>
+	<Common> <!-- 常用的卓越属性 -->
+		<!-- 武器类 -->
+		<Option ID="0" 	Number="0" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="卓越攻击几率增加 +%d%%" />
+		<Option ID="1" 	Number="1" Operator="3"   Value="1"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s增加 +等级%d/20" />
+		<Option ID="2" 	Number="2" Operator="2"   Value="2"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s增加 +%d%%" />
+		<Option ID="3" 	Number="3" Operator="1"   Value="7"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="攻击(魔法)速度增加 +%d" />
+		<Option ID="4" 	Number="4" Operator="4"   Value="8"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="杀死怪物时所获魔法值增加 +生命值/%d" />
+		<Option ID="5" 	Number="5" Operator="5"   Value="8"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="杀死怪物时所获魔法值增加 +魔法值/%d" />
+<!--EX--><Option ID="6" Number="6" Operator="100" Value="2"  FormulaID="0"  ItemKindA_1="14" ItemKindA_2="100" ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s增加 +等级%.1f/20" />
+<!--EX--><Option ID="7" Number="7" Operator="100" Value="1"  FormulaID="1"  ItemKindA_1="14" ItemKindA_2="100" ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="增加 %s +%d" />
+		<!-- 装备类 -->
+		<Option ID="8" 	Number="0" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="最大生命值增加 %d%%" />
+		<Option ID="9" 	Number="1" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="最大魔法值增加 %d%%" />
+		<Option ID="10" Number="2" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="伤害减少 +%d%%" />
+		<Option ID="11" Number="3" Operator="2"   Value="5"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="伤害反射 +%d%%" />
+		<Option ID="12" Number="4" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="防御成功率增加 +%d%%" />
+		<Option ID="13" Number="5" Operator="1"   Value="30" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="杀死怪物时所获金增加 +%d%%" />
+<!--EX--><Option ID="14" Number="6" Operator="100" Value="2"  FormulaID="2"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="最大生命值增加 +%d" />
+<!--EX--><Option ID="15" Number="7" Operator="100" Value="3"  FormulaID="3"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="最大魔法值增加 +%d" />
+<!--EX--><Option ID="16" Number="8" Operator="100" Value="4"  FormulaID="4"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="伤害减少 +%d" />
+<!--EX--><Option ID="17" Number="9" Operator="100" Value="5"  FormulaID="5"  ItemKindA_1="15" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="杀死怪物时所获金增加 +%d%%" />
+<!--EX--><Option ID="18" Number="10" Operator="100" Value="6"  FormulaID="6"  ItemKindA_1="18" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s增加 %.1f 等级/20" />
+	</Common>
+	<Wings>
+	<!-- 二代翅膀属性 -->
+		<Option ID="0" Number="1" Operator="1" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000"  Name="攻击(魔法)速度增加 +%d%%" />
+		<Option ID="1" Number="2" Operator="1" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="最大技能值增加 %d" />
+		<Option ID="2" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="%d%% 概率攻击时无视对方防御力" />
+		<Option ID="3" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="魔法值增加 +%d" />
+		<Option ID="4" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="生命值增加 +%d" />
+		
+	<!-- 三代翅膀属性 -->
+		<Option ID="5" Number="2" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="25" Rate="2500" Name="%d%% 概率完全恢复魔法值" />
+		<Option ID="6" Number="3" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="25" Rate="2500" Name="%d%% 概率完全恢复生命值" />
+		<Option ID="7" Number="4" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="25" Rate="2500" Name="%d%% 概率反弹攻击" />
+		<Option ID="8" Number="5" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="25" Rate="2500" Name="%d%% 概率攻击时无视对方防御力" />
+	
+	<!-- 王者披风属性 -->
+		<Option ID="9"  Number="2" Operator="6" Value="10" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="统率增加 %d" />
+		<Option ID="10" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="%d%% 概率攻击时无视对方防御力" />
+		<Option ID="11" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="魔法值增加 %d" />
+		<Option ID="12" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="生命值增加 %d" />
+	
+	<!-- 武者披风属性 -->
+		<Option ID="13" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3333" Name="%d%% 概率攻击时无视对方防御力%" />
+		<Option ID="14" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3333" Name="魔法值增加 %d" />
+		<Option ID="15" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3334" Name="生命值增加 %d" />
+	
+	<!-- 2.5D翅膀属性 -->
+		<Option ID="16" Number="4" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="28" Rate="5000" Name="生命值完全恢复几率提高 %d%%" />
+		<Option ID="17" Number="5" Operator="2" Value="3" FormulaID="-1" ItemKindA="6" ItemKindB="28" Rate="5000" Name="%d%% 概率攻击时无视对方防御力" />
+	
+	<!-- 征服者之翼属性 -->
+		<Option ID="18" Number="2" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="60" Rate="2500" Name="%d%% 概率完全恢复魔法值" /><!--EG四代翅膀自定义属性-->
+		<Option ID="19" Number="3" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="60" Rate="2500" Name="%d%% 概率完全恢复生命值" /><!--EG四代翅膀自定义属性-->
+		<Option ID="20" Number="4" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="60" Rate="2500" Name="%d%% 概率反弹攻击" />		<!--EG四代翅膀自定义属性-->
+		<Option ID="21" Number="5" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="60" Rate="2500" Name="%d%% 概率攻击时无视对方防御力" /><!--EG四代翅膀自定义属性-->
+		
+	<!-- 善恶之翼属性 -->
+		<Option ID="22" Number="3" Operator="2" Value="4" FormulaID="-1" ItemKindA="6" ItemKindB="62" Rate="3333" Name="生命值完全恢复几率提高 %d%%" />
+		<Option ID="23" Number="4" Operator="2" Value="4" FormulaID="-1" ItemKindA="6" ItemKindB="62" Rate="3333" Name="%d%% 概率攻击时无视对方防御力" />
+		<Option ID="24" Number="5" Operator="2" Value="4" FormulaID="-1" ItemKindA="6" ItemKindB="62" Rate="3334" Name="双倍伤害几率提高 %d%%" />
+		
+	<!-- 权力之翼属性 -->
+		<Option ID="25" Number="3" Operator="2" Value="6" FormulaID="-1" ItemKindA="6" ItemKindB="80" Rate="3333" Name="生命值完全恢复几率提高 %d%%" />
+		<Option ID="26" Number="4" Operator="2" Value="6" FormulaID="-1" ItemKindA="6" ItemKindB="80" Rate="3333" Name="使对方防御的机率提高 %d%%" />
+		<Option ID="27" Number="5" Operator="2" Value="6" FormulaID="-1" ItemKindA="6" ItemKindB="80" Rate="3334" Name="双倍伤害几率提高 %d%%" />
+	</Wings>
+
+</ExcellentOptions>

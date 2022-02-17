@@ -1,0 +1,211 @@
+/*在这里放置全局样式*/
+a{transition: all .5s ease 0s;text-decoration: none;}           /*这个是设置a标签的默认状态去除下划线*/
+a:visited{text-decoration: none;}   /*这个是设置a标签的访问过后的状态去除下划线*/
+a:hover {text-decoration: none;}    /*这个是设置a标签的鼠标覆盖状态去除下划线*/
+a:active{text-decoration:none;}     /*这个是设置a标签的活跃状态去除下划线*/
+
+body{
+    width: 100%;
+    background: url(../img/bg.jpg) top no-repeat;
+    background-color: #0c0000;
+    font-family: Open Sans, Candara, Arial, sans-serif;
+    font-size: 14px;
+    color: #394c7f;
+}
+
+.container{
+    max-width: 1280px;
+}
+.navbar{
+    padding: 0;
+}
+header{
+    background: rgba(0,0,0,0.5);
+}
+
+.menu a{
+    color: #FFFFFF;
+}
+.menu a:hover{
+    color: #FF0000;
+}
+.menu .active{
+    color: #FF0000;
+}
+.navbar-tag{
+    margin-bottom: unset;
+    color: #CCCCCC;
+}
+.more{
+    color: #7a7a7a;
+    background-color: #e9ecef;
+}
+.btn_downLoad {
+    width: 260px;
+    height: 222px;
+    margin-top: 100px;
+    margin-left: 44px;
+    z-index: 2;
+}
+.btn_downLoad{
+    background:url("../img/btn_gameStatr01_off.png") 0 0 no-repeat;
+}
+.btn_downLoad:hover {
+    background:url("../img/btn_gameStatr01_on.png") 0 0 no-repeat;
+}
+
+.main{
+    background-color: #FFF;
+}
+
+footer{
+    background-color: #efefef;
+    margin-right: 0;
+    margin-left: 0;
+    border-radius: 0 0 .3rem .3rem;
+}
+
+.worldLink {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    color: #848484;
+}
+.worldLink select{
+    background-color: #c9c9ca;
+    color: #848484;
+}
+.User td {
+    cursor: pointer;transition: all 0.3s;
+    width: 100%;
+}
+.User td:hover{
+    transform: scale(1.05);
+    color: #fff !important;
+    background-color: #ff0000 !important;
+    border-color: #ff0000 !important;
+    text-align: center;
+}
+.User>td>a{
+    display: block;
+    text-align: center;
+}
+.qq{
+    background: #388fda;
+}
+
+.qq:hover {
+    background: #399cea;
+}
+.qqQun{
+    background: #1c7430;
+}
+.qqQun:hover{
+    background: #269640;
+}
+.btn-social-counter {
+    display: block;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid hsla(0, 0%, 100%, .05);
+    border-radius: .05rem;
+    min-height: 55px;
+    position: relative;
+    overflow: hidden;
+    background-clip: padding-box;
+    padding: 10px 60px 10px 80px;
+    transition: all .3s ease-in-out;
+    transform: translateZ(0);
+}
+.btn-social-counter+.btn-social-counter {
+    margin-top: 10px
+}
+.btn-social-counter:hover {
+    color: #fff
+}
+.btn-social-counter__icon {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 68px;
+    background-color: rgba(0, 0, 0, .1);
+    text-align: center;
+    font-size: 18px
+}
+.btn-social-counter__icon .fa {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.btn-social-counter__title {
+    font-size: 11px;
+    line-height: 1.2em;
+    color: #fff;
+    margin-bottom: 1px;
+    letter-spacing: -.02em
+}
+@media (min-width:992px) {
+    .btn-social-counter__title {
+        font-size: 15px
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .btn-social-counter__title {
+        font-size: 11px
+    }
+}
+.btn-social-counter__count {
+    display: block;
+    font-size: 10px;
+    line-height: 1.2em;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.btn-social-counter__add-icon {
+    display: block;
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    right: 23px;
+    top: 50%;
+    margin-top: -13px
+}
+
+.btn-social-counter__add-icon:after,
+.btn-social-counter__add-icon:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #fff;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform .2s ease-in-out
+}
+
+.btn-social-counter__add-icon:before {
+    width: 8px;
+    height: 2px
+}
+
+.btn-social-counter__add-icon:after {
+    width: 2px;
+    height: 8px
+}
+
+.btn-social-counter:hover .btn-social-counter__add-icon:after,
+.btn-social-counter:hover .btn-social-counter__add-icon:before {
+    transform: translate(-50%, -50%) rotate(-90deg)
+}

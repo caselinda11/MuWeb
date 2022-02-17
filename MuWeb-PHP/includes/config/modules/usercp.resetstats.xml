@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<active>1</active>
+	<resetstats_enable_zen_requirement>1</resetstats_enable_zen_requirement>
+	<resetstats_price_zen>10</resetstats_price_zen>
+	<resetstats_new_stats/>
+<resetstats_use_cmd>1</resetstats_use_cmd><time_requirement>10</time_requirement><check_equipment>1</check_equipment><resetstats_level>300</resetstats_level></settings>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <redis_ip>127.0.0.1</redis_ip>
+    <redis_pass/>
+    <redis_port>6379</redis_port>
+    <log_path>c:/log</log_path>
+</settings>

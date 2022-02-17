@@ -1,0 +1,1 @@
+D:\phpstudy_pro/Extensions/php/php7.3.4nts/php-win.exe -q D:\phpstudy_pro\WWW\web.x-mu.cn/includes/cron/cron.php

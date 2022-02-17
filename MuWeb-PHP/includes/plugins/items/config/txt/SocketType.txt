@@ -1,0 +1,92 @@
+//==============================================================================
+//可以带洞的物品编号 如果加入非官方原始的装备,那么此装备将无法点再生宝石
+//
+//重要:[让客户端正确识别镶嵌道具]
+//设置好后拉入MuEdit文件夹内的 Z和TXT格式拖拉互相转换器.exe 上面转换为.Z格式文件,然后更新到客户端/data/Custom/文件夹内即可
+//==============================================================================
+//设置可以掉落镶嵌装备的地图,默认57，58这2个
+
+0
+//	地图		
+
+	57
+	58
+
+end
+//	大编号	小编号  装备名称[可不写]
+1
+	0	26	//Flameberge
+	0	27	//Sword Bracker
+	0	28	//Imperial Sword
+
+	0	52	//豹火毁灭拳刃	- 新加
+
+	2	16	//Frost Mace
+	2	17	//Absolute Scepter
+
+	4	23	//Stinger Bow
+	
+	5	20	//黑暗之仗
+	5	30	//Deadly Staff
+	5	31	//Imperial Staff
+	5	32 
+		
+	6	17	//Crimson Glory
+	6	18	//Salamander Shield
+	6	19	//Frost Barrier
+	6	20	//Guardian Shield
+
+	7	44	//黑暗
+	7	45	//Titan Helm
+	7	46	//Brave Helm
+	7	49	//Seraphim Helm
+	7	50	//Faith Helm
+	7	51	//Phaewang Helm
+	7	52	//Hades Helm
+	7	53	//Queen Helm
+
+	8	44	//黑暗
+	8	45	//Titan Armor
+	8	46	//Brave Armor
+	8	47	//Destory Armor
+	8	48	//Phantom Armor
+	8	49	//Seraphim Armor
+	8	50	//Faith Armor
+	8	51	//Phaewang Armor
+	8	52	//Hades Armor
+	8	53	//Queen Armor
+
+	9	44	//黑暗
+	9	45	//Titan Pants
+	9	46	//Brave Pants
+	9	47	//Destory Pants
+	9	48	//Phantom Pants
+	9	49	//Seraphim Pants
+	9	50	//Faith Pants
+	9	51	//Phaewang Pants
+	9	52	//Hades Pants
+	9	53	//Queen Pants
+
+	10	44	//黑暗
+	10	45	//Titan Gloves
+	10	46	//Brave Gloves
+	10	47	//Destory Gloves
+	10	48	//Phantom Gloves
+	10	49	//Seraphim Gloves
+	10	50	//Faith Gloves
+	10	51	//Phaewang Gloves
+	10	52	//Hades Gloves
+	10	53	//Queen Gloves
+
+	11	44	//黑暗
+	11	45	//Titan Boots
+	11	46	//Brave Boots
+	11	47	//Destory Boots
+	11	48	//Phantom Boots
+	11	49	//Seraphim Boots
+	11	50	//Faith Boots
+	11	51	//Phaewang Boots
+	11	52	//Hades Boots
+	11	53	//Queen Boots
+
+end

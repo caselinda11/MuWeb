@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<active>1</active>
+	<send_from>service@lgmu.net</send_from>
+	<send_name>MuOnline</send_name>
+	<smtp_active>1</smtp_active>
+	<smtp_host>smtp.qq.com</smtp_host>
+	<smtp_port>587</smtp_port>
+	<smtp_user>service@lgmu.net</smtp_user>
+	<smtp_pass>ujsfwapiaikwcaja</smtp_pass>
+	<email_templates>
+		<template>
+			<subject>{SERVER_NAME} 密码已更新!</subject>
+			<filename>CHANGE_PASSWORD</filename>
+		</template>
+		<template>
+			<subject>{SERVER_NAME} 密码更改请求</subject>
+			<filename>CHANGE_PASSWORD_EMAIL_VERIFICATION</filename>
+		</template>
+		<template>
+			<subject>{SERVER_NAME} 密码恢复请求</subject>
+			<filename>PASSWORD_RECOVERY_REQUEST</filename>
+		</template>
+		<template>
+			<subject>你的新 {SERVER_NAME} 密码</subject>
+			<filename>PASSWORD_RECOVERY_COMPLETED</filename>
+		</template>
+		<template>
+			<subject>你的 {SERVER_NAME} Master Key</subject>
+			<filename>MASTER_KEY_RECOVERY</filename>
+		</template>
+		<template>
+			<subject>欢迎来到 {SERVER_NAME}!</subject>
+			<filename>WELCOME_EMAIL</filename>
+		</template>
+		<template>
+			<subject>验证你的 {SERVER_NAME} 邮箱</subject>
+			<filename>WELCOME_EMAIL_VERIFICATION</filename>
+		</template>
+		<template>
+			<subject>{SERVER_NAME} 电邮变更要求</subject>
+			<filename>CHANGE_EMAIL_VERIFICATION</filename>
+		</template>
+		<template>
+			<subject>你的新 {SERVER_NAME} 邮箱</subject>
+			<filename>ADMIN_CHANGE_EMAIL</filename>
+		</template>
+		<template>
+			<subject>你的新 {SERVER_NAME} 密码</subject>
+			<filename>ADMIN_CHANGE_PASSWORD</filename>
+		</template>
+	</email_templates>
+</settings>

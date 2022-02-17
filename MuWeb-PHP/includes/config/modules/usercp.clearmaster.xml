@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<active>1</active>
+	<clearst_enable_zen_requirement>0</clearst_enable_zen_requirement>
+	<clearst_credit_type>1</clearst_credit_type>
+	<clearst_price_credit>10</clearst_price_credit>
+	<clearst_required_level>190</clearst_required_level>
+	<clearst_master_point>3</clearst_master_point>
+	<clearst_price>50</clearst_price>
+</settings>

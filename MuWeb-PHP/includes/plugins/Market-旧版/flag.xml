@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <active>1</active>
+    <price>30</price>
+    <min_price>50</min_price>
+    <max_price>2000000</max_price>
+    <price_type>1</price_type>
+    <price_rate>5</price_rate>
+</settings>

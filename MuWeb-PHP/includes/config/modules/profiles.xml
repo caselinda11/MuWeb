@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<active>1</active>
+	<update_time>100</update_time>
+	<show_level>1</show_level>
+	<show_online>1</show_online>
+	<show_guild>1</show_guild>
+	<show_location>1</show_location>
+	<show_total_status>1</show_total_status>
+<show_gens>1</show_gens></settings>
