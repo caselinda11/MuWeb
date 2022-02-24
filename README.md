@@ -11,5 +11,5 @@
     MU奇迹网站和装备商城的整合，仿青蛙奇迹,需要申请支付宝电脑网站支付接口
     包含功能：官方网站，装备商城，支付宝支付(调用电脑网站支付接口)，溯源系统，会员排名，消费排名
 支付宝交易完成后装备支持发送到购买者EG储物箱,TL保管箱或者直接发仓库
-![image](https://github.com/caselinda11/MuWeb/blob/master/default.png)
+![image](https://github.com/caselinda11/MuWeb/blob/master/read.png)
 
